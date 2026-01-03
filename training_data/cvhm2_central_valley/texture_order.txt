@@ -1,0 +1,11 @@
+# Texture types (approximate depth ordering)
+0: Top Soil
+1: Sand
+2: Gravel
+3: Clay
+4: Silt
+5: Hard Pan
+6: Shale
+7: Sandstone
+8: Cobbles
+9: Rock

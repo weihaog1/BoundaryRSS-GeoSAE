@@ -35,7 +35,14 @@ BOREHOLE DATA (3D - Required):
         Boreholes provide vertical sections
 ```
 
-## Primary Dataset: Salinas Valley (USGS)
+## Available Datasets Summary
+
+| Dataset | Boreholes | Data Points | Categories | Use Case |
+|---------|-----------|-------------|------------|----------|
+| Salinas Valley | 1,385 | 2,845 | 8 stratigraphic units | Quick testing, hydrostratigraphy |
+| CVHM2 Central Valley | 14,683 | 277,807 | 10 texture types | Full training, lithology modeling |
+
+## Dataset 1: Salinas Valley (USGS)
 
 ### Source Information
 - **Title**: Digital data for the Salinas Valley Geological Framework, California
@@ -145,3 +152,50 @@ The Salinas Valley stratigraphy data needs to be converted to GeoSAE format:
 ```
 
 See `training_data/salinas_valley/prepare_data.py` for the actual conversion script.
+
+## Dataset 2: CVHM2 Central Valley (USGS)
+
+### Source Information
+- **Title**: Central Valley Hydrologic Model version 2 (CVHM2): Well Log Database
+- **Publisher**: U.S. Geological Survey
+- **DOI**: https://doi.org/10.5066/P9IZRO3V
+- **ScienceBase**: https://www.sciencebase.gov/catalog/item/61fc85bbd34e622189cc0941
+- **Local Path**: `training_data/cvhm2_central_valley/`
+
+### Dataset Statistics
+| Metric | Value |
+|--------|-------|
+| Number of boreholes | 14,683 |
+| Total lithology intervals | 280,151 |
+| Prepared data points | 277,807 |
+| Unique texture types | 10 (filtered from 28) |
+| Geographic coverage | California Central Valley |
+| Latitude range | 34.99° to 40.69° N |
+| Longitude range | -122.61° to -118.75° W |
+
+### Texture Types (by frequency)
+1. **Clay** (46.0%) - Fine-grained aquitard
+2. **Sand** (36.4%) - Aquifer material
+3. **Gravel** (6.1%) - Coarse aquifer
+4. **Top Soil** (2.8%)
+5. **Shale** (2.6%)
+6. **Silt** (2.2%)
+7. **Sandstone** (1.4%)
+8. **Hard Pan** (1.0%)
+9. **Rock** (1.0%)
+10. **Cobbles** (0.5%)
+
+### Files Downloaded
+```
+training_data/cvhm2_central_valley/
+├── Well_Log_Database.xlsx    # Original USGS Excel (12.5 MB)
+├── prepare_data.py           # Conversion script
+├── geosae_input.csv          # GeoSAE-ready data (277,807 points)
+├── texture_order.txt         # Category ordering
+└── README.md                 # Full documentation
+```
+
+### When to Use This Dataset
+- **Full-scale training**: 100x more data than Salinas Valley
+- **Lithology modeling**: Texture-based classification (Clay vs Sand vs Gravel)
+- **Regional studies**: Covers entire California Central Valley
