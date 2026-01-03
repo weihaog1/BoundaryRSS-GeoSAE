@@ -72,8 +72,14 @@ def parse_args():
     parser.add_argument(
         "--lambda-smoothness",
         type=float,
-        default=0.1,
+        default=0.01,  # Reduced from 0.1 to prevent NaN divergence
         help="Weight for smoothness constraint",
+    )
+    parser.add_argument(
+        "--lr",
+        type=float,
+        default=0.001,
+        help="Learning rate",
     )
     parser.add_argument(
         "--beta",
@@ -157,6 +163,7 @@ def main():
     trainer = Trainer(
         model=model,
         device=args.device,
+        learning_rate=args.lr,
         lambda_smoothness=args.lambda_smoothness,
     )
 

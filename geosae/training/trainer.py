@@ -253,6 +253,16 @@ class Trainer:
 
             # Backward pass
             losses["total"].backward()
+
+            # Gradient clipping to prevent explosion
+            torch.nn.utils.clip_grad_norm_(self.model.parameters(), max_norm=1.0)
+
+            # Check for NaN and skip update if detected
+            if torch.isnan(losses["total"]) or torch.isinf(losses["total"]):
+                print(f"\nWarning: NaN/Inf detected at iteration {iteration}, skipping update")
+                self.optimizer.zero_grad()
+                continue
+
             self.optimizer.step()
             self.scheduler.step()
 

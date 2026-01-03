@@ -321,11 +321,12 @@ class SmoothnessConstraintLoss(nn.Module):
                 only_inputs=True,
             )[0]
 
-            # Compute gradient norms
-            gradient_norms = torch.norm(gradients, dim=-1)
+            # Compute gradient norms (with epsilon for numerical stability)
+            gradient_norms = torch.norm(gradients, dim=-1) + 1e-8
 
             # Eikonal loss: ||∇S|| should be close to 1
-            eikonal_loss = torch.abs(gradient_norms - 1.0).mean()
+            # Clamp to prevent extreme values
+            eikonal_loss = torch.clamp(torch.abs(gradient_norms - 1.0), max=10.0).mean()
             total_loss = total_loss + eikonal_loss
 
         return total_loss / num_potential_fields
