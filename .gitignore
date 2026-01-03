@@ -96,8 +96,14 @@ output/
 *.pt
 *.pth
 *.vtk
-*.csv
-!examples/*.csv
+*.zip
 
 # Claude
 .claude/
+
+# External data (keep local, don't commit)
+Jun-s-data/
+academic-paper/
+
+# Temporary analysis scripts (created during exploration)
+analyze_data.py
