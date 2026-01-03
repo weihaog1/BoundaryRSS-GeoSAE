@@ -67,10 +67,40 @@ training_data/
 docs/                 # Project documentation (you are here)
 ```
 
+## Training Requirements
+
+**GPU Recommended**: Training on CPU is ~1 hour for 1000 iterations. With NVIDIA GPU, expect 10-20x speedup.
+
+### Quick Start (GPU Instance)
+
+```bash
+# Clone/sync the repo to your GPU instance
+git pull
+
+# Install dependencies
+pip install -r requirements.txt
+pip install -e .
+
+# Run training with GPU
+python examples/train_geosae.py \
+    --data-path training_data/salinas_valley/geosae_input.csv \
+    --output-dir output/salinas_valley \
+    --device cuda \
+    --pretrain-iterations 2000 \
+    --train-iterations 5000
+
+# Expected time: ~5-10 minutes on RTX 5070
+```
+
+### Training Output
+- `output/salinas_valley/geosae_model.pt` - Trained model
+- `output/salinas_valley/training_history.png` - Loss curves
+- `output/salinas_valley/geosae_output.vtk` - 3D model for ParaView
+
 ## Next Steps
 
-1. Create data preprocessing script for Salinas Valley data
-2. Run GeoSAE training with real data
+1. ~~Create data preprocessing script for Salinas Valley data~~ **DONE**
+2. Run GeoSAE training with real data (needs GPU)
 3. Generate 3D stratigraphic model visualizations
 4. Clean up incompatible Jun-s-data folder
 5. Remove synthetic data examples
