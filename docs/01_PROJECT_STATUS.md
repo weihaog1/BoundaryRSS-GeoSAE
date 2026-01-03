@@ -15,25 +15,32 @@ GeoSAE is a PyTorch implementation of 3D stratigraphic modeling using Stacked Au
 - PyVista visualization utilities
 - Unit tests passing
 - Training pipeline runs end-to-end with real data
+- **NaN divergence fixed** - gradient clipping, numerical stability added
 
-### First Training Run (2026-01-03)
+### Training Run History
+
+#### Run 1 (2026-01-03) - NaN Divergence
 - **Dataset**: Salinas Valley (2,845 points, 8 surfaces)
 - **Pre-training**: Converged successfully (loss: 1.0 → 0.002)
 - **Main training**: Started converging (loss: 8.4 → 1.4) but diverged to NaN
-- **Outputs created**: `output/salinas_valley/`
-  - `geosae_model.pt` (6.4 MB)
-  - `geosae_output_grid.vtk` (4 MB, 50x50x50 grid)
-  - `training_history.png`
+- **Root cause**: Smoothness loss explosion, gradient instability
 
-### What Needs Tuning
-- Loss weights (lambda values) need adjustment to prevent NaN divergence
-- May need gradient clipping or lower learning rate
-- Consider early stopping when loss starts increasing
+#### Run 2 (2026-01-03) - SUCCESS with NaN Fixes
+- **Dataset**: Synthetic data (1,400 points, 7 surfaces)
+- **Pre-training**: Completed (loss: 0.74)
+- **Main training**: Converged successfully (loss: 0.38 → 0.07)
+- **Result**: Model weights 100% healthy (0 NaN/Inf out of 1.38M params)
+- **Outputs**: `output/test_fixes/`
 
-### What's Not Yet Done
-- Hyperparameter tuning for stable training
-- Valid 3D visualization outputs
-- Cleanup of Jun's incompatible data
+### NaN Fixes Applied
+1. **Gradient clipping**: `clip_grad_norm_(params, max_norm=1.0)` in `trainer.py`
+2. **Numerical stability**: Added `epsilon=1e-8` to gradient norms in `geological_constraints.py`
+3. **Loss clamping**: Clamp eikonal loss to prevent extreme values
+4. **Reduced lambda_smoothness**: Default changed from 0.1 to 0.01
+
+### Analysis Scripts
+- `scripts/analyze_results.py` - Check model health, analyze predictions, generate visualizations
+- Output: `output/analysis_*/surface_distributions.png`, `surface_ordering.png`
 
 ## Data Status
 
@@ -121,7 +128,8 @@ python examples/train_geosae.py \
 ## Next Steps
 
 1. ~~Create data preprocessing script for Salinas Valley data~~ **DONE**
-2. ~~Run GeoSAE training with real data~~ **DONE** (but needs tuning)
-3. Tune hyperparameters to fix NaN divergence (try lower lr, gradient clipping)
-4. Generate valid 3D stratigraphic model visualizations
-5. Clean up incompatible Jun-s-data folder
+2. ~~Run GeoSAE training with real data~~ **DONE**
+3. ~~Fix NaN divergence (gradient clipping, numerical stability)~~ **DONE**
+4. Re-run training on Salinas Valley with GPU (NaN fixes applied)
+5. Generate 3D VTK visualizations (requires PyVista)
+6. ~~Clean up incompatible Jun-s-data folder~~ (in progress)
