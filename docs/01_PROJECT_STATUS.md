@@ -1,6 +1,6 @@
 # Project Status
 
-**Last Updated**: 2025-01-03
+**Last Updated**: 2026-01-03
 
 ## Current State
 
@@ -14,14 +14,25 @@ GeoSAE is a PyTorch implementation of 3D stratigraphic modeling using Stacked Au
 - Data preprocessing and normalization utilities
 - PyVista visualization utilities
 - Unit tests passing
+- Training pipeline runs end-to-end with real data
 
-### What's In Progress
-- Testing with real borehole data (Salinas Valley dataset downloaded)
-- Data preprocessing script for Salinas Valley → GeoSAE format conversion
+### First Training Run (2026-01-03)
+- **Dataset**: Salinas Valley (2,845 points, 8 surfaces)
+- **Pre-training**: Converged successfully (loss: 1.0 → 0.002)
+- **Main training**: Started converging (loss: 8.4 → 1.4) but diverged to NaN
+- **Outputs created**: `output/salinas_valley/`
+  - `geosae_model.pt` (6.4 MB)
+  - `geosae_output_grid.vtk` (4 MB, 50x50x50 grid)
+  - `training_history.png`
+
+### What Needs Tuning
+- Loss weights (lambda values) need adjustment to prevent NaN divergence
+- May need gradient clipping or lower learning rate
+- Consider early stopping when loss starts increasing
 
 ### What's Not Yet Done
-- End-to-end validation with real geological data
-- Visualization outputs
+- Hyperparameter tuning for stable training
+- Valid 3D visualization outputs
 - Cleanup of Jun's incompatible data
 
 ## Data Status
@@ -110,7 +121,7 @@ python examples/train_geosae.py \
 ## Next Steps
 
 1. ~~Create data preprocessing script for Salinas Valley data~~ **DONE**
-2. Run GeoSAE training with real data (needs GPU)
-3. Generate 3D stratigraphic model visualizations
-4. Clean up incompatible Jun-s-data folder
-5. Remove synthetic data examples
+2. ~~Run GeoSAE training with real data~~ **DONE** (but needs tuning)
+3. Tune hyperparameters to fix NaN divergence (try lower lr, gradient clipping)
+4. Generate valid 3D stratigraphic model visualizations
+5. Clean up incompatible Jun-s-data folder
