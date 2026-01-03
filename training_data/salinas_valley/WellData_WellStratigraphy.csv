@@ -1,0 +1,3563 @@
+BoreholeID,IntervalTop_Depth,IntervalBase_Depth,HydrostratigraphicUnit
+2,101.66,119.85,Salinas aquitard
+2,119.85,233.5,180ft aquifer
+2,233.5, ---,Middle aquitard
+2, ---,101.66,Shallow aquifer
+20,82.7,148.07,Salinas aquitard
+20,148.07,299.24,180ft aquifer
+20,299.24, ---,Middle aquitard
+20,526.04, ---,400ft aquifer
+20, ---,82.7,Shallow aquifer
+22,63.21,92.78,Salinas aquitard
+22,92.78,192.76,180ft aquifer
+22,192.76,277.08,Middle aquitard
+22,277.08,406.84,400ft aquifer
+22,406.84, ---,Deep aquitard
+22, ---,63.21,Shallow aquifer
+33,24.08,157.55,180ft aquifer
+33,157.55,192.72,Middle aquitard
+33,192.72,270.46,400ft aquifer
+33,270.46, ---,Deep aquitard
+33, ---,24.08,Salinas aquitard
+38,71.36,188.72,Salinas aquitard
+38,188.72, ---,180ft aquifer
+38, ---,71.36,Shallow aquifer
+43,159.8,202.53,Salinas aquitard
+43,202.53, ---,180ft aquifer
+43, ---,159.8,Shallow aquifer
+44,54.79,90.81,180ft aquifer
+44,90.81, ---,Middle aquitard
+44, ---,54.79,Salinas aquitard
+48,160.21,250.21,180ft aquifer
+48,250.21,367.15,Middle aquitard
+48,367.15, ---,400ft aquifer
+57,28.09,151.53,Salinas aquitard
+57,151.53,255.8,180ft aquifer
+57,255.8,498.12,Middle aquitard
+57,498.12, ---,400ft aquifer
+60,2.43,51.31,180ft aquifer
+60,51.31, ---,Middle aquitard
+60, ---,2.43,Salinas aquitard
+66,58.95,84.48,Salinas aquitard
+66,84.48,186.46,180ft aquifer
+66,186.46, ---,Middle aquitard
+66, ---,58.95,Shallow aquifer
+75,130.63,227.34,Salinas aquitard
+75,227.34,324.06,180ft aquifer
+75,324.06,439.37,Middle aquitard
+75,439.37, ---,400ft aquifer
+75, ---,130.63,Shallow aquifer
+87,70.91,93.38,Salinas aquitard
+87,93.38, ---,180ft aquifer
+87, ---,70.91,Shallow aquifer
+108,40.46,67.65,Salinas aquitard
+108,67.65,186.18,180ft aquifer
+108,186.18, ---,Middle aquitard
+108, ---,40.46,Shallow aquifer
+109,50.88,226.37,Salinas aquitard
+109,226.37,379.66,180ft aquifer
+109,379.66,453.63,Middle aquitard
+109,453.63,569.48,400ft aquifer
+109,569.48, ---,Deep aquitard
+109, ---,50.88,Shallow aquifer
+113,93.24,124.72,Salinas aquitard
+113,124.72,226.91,180ft aquifer
+113,226.91,354.74,Middle aquitard
+113,354.74,487.02,400ft aquifer
+113,487.02, ---,Deep aquitard
+113, ---,93.24,Shallow aquifer
+126, ---, ---,180ft aquifer
+126, ---, ---,400ft aquifer
+126, ---, ---,Deep aquitard
+126, ---, ---,Middle aquitard
+126, ---, ---,Paso Robles
+126, ---, ---,Salinas aquitard
+126, ---, ---,Shallow aquifer
+127,30.16,71.47,180ft aquifer
+127,71.47,102.19,Middle aquitard
+127,102.19,381.43,400ft aquifer
+127,381.43, ---,Deep aquitard
+127, ---,30.16,Salinas aquitard
+137,150.64,172.57,Salinas aquitard
+137,172.57,241.77,180ft aquifer
+137,241.77,406.89,Middle aquitard
+137,406.89,582.77,400ft aquifer
+137,582.77, ---,Deep aquitard
+137, ---,150.64,Shallow aquifer
+147,52.31,202.95,Salinas aquitard
+147,202.95, ---,180ft aquifer
+147, ---,52.31,Shallow aquifer
+151,76.76,114.14,180ft aquifer
+151,114.14,235.06,Middle aquitard
+151,235.06, ---,400ft aquifer
+151, ---,76.76,Salinas aquitard
+154,160.2,236.4,Salinas aquitard
+154,236.4,279.06,180ft aquifer
+154,279.06,330.26,Middle aquitard
+154,330.26,383.59,400ft aquifer
+154,383.59,552.11,Deep aquitard
+154,552.11, ---,Paso Robles
+162,132.18,212.22,Salinas aquitard
+162,212.22,283.75,180ft aquifer
+162,283.75,372.97,Middle aquitard
+162,372.97,519.67,400ft aquifer
+162,519.67, ---,Deep aquitard
+162, ---,132.18,Shallow aquifer
+169,35.77,107.45,Salinas aquitard
+169,107.45,182.46,180ft aquifer
+169,182.46,252.44,Middle aquitard
+169,252.44, ---,400ft aquifer
+169, ---,35.77,Shallow aquifer
+172,29,58.99,Shallow aquifer
+172,58.99,154.01,Salinas aquitard
+172,154.01,173.99,180ft aquifer
+172,173.99,234,Middle aquitard
+172,234,377.35,400ft aquifer
+172,377.35, ---,Deep aquitard
+174,27.34,103.94,Salinas aquitard
+174,103.94,217.89,180ft aquifer
+174,217.89,338.93,Middle aquitard
+174,338.93,458.95,400ft aquifer
+174,458.95,608.95,Deep aquitard
+174,608.95, ---,Paso Robles
+174, ---,27.34,Shallow aquifer
+179,76.96,113.7,180ft aquifer
+179,113.7,144.04,Middle aquitard
+179,144.04, ---,400ft aquifer
+179, ---,76.96,Salinas aquitard
+183,40.37,131.47,Salinas aquitard
+183,131.47,249.98,180ft aquifer
+183,249.98, ---,Middle aquitard
+183, ---,40.37,Shallow aquifer
+191,163.02,248.13,400ft aquifer
+191,248.13, ---,Deep aquitard
+191, ---,163.02,Middle aquitard
+193,24.4,124.19,Salinas aquitard
+193,124.19,193.95,180ft aquifer
+193,193.95,259.59,Middle aquitard
+193,259.59,447.4,400ft aquifer
+193,447.4, ---,Deep aquitard
+193, ---,24.4,Shallow aquifer
+197,0.69,37.67,Shallow aquifer
+197,37.67,82.68,Salinas aquitard
+197,82.68,172.68,180ft aquifer
+197,172.68,249.45,Middle aquitard
+197,249.45,408.55,400ft aquifer
+197,408.55,512.69,Deep aquitard
+197,512.69, ---,Paso Robles
+204,91,156.01,Salinas aquitard
+204,156.01,287.74,180ft aquifer
+204,287.74, ---,Middle aquitard
+204, ---,91,Shallow aquifer
+213,68.9,170.99,180ft aquifer
+213,170.99,227.71,Middle aquitard
+213,227.71,316.19,400ft aquifer
+213,316.19, ---,Deep aquitard
+214,136.51,201.47,Salinas aquitard
+214,201.47,240.73,180ft aquifer
+214,240.73,401.9,Middle aquitard
+214,401.9,517.61,400ft aquifer
+214,517.61, ---,Deep aquitard
+214, ---,136.51,Shallow aquifer
+227,86.95,251.98,180ft aquifer
+227,251.98,371.97,Middle aquitard
+227,371.97, ---,400ft aquifer
+227, ---,86.95,Salinas aquitard
+235,49.31,92.46,Salinas aquitard
+235,92.46,189.19,180ft aquifer
+235,189.19,296.51,Middle aquitard
+235,296.51,474.86,400ft aquifer
+235,474.86,648.97,Deep aquitard
+235,648.97, ---,Paso Robles
+235, ---,49.31,Shallow aquifer
+239,95.27,147.19,Salinas aquitard
+239,147.19,219.79,180ft aquifer
+239,219.79,342.99,Middle aquitard
+239,342.99, ---,400ft aquifer
+239, ---,95.27,Shallow aquifer
+243,96.06,178.75,Salinas aquitard
+243,178.75,277.61,180ft aquifer
+243,277.61,522.63,Middle aquitard
+243,522.63,567.2,400ft aquifer
+243,567.2, ---,Deep aquitard
+243, ---,96.06,Shallow aquifer
+266,50.91,120.54,180ft aquifer
+266,120.54, ---,Middle aquitard
+266, ---,50.91,Salinas aquitard
+270,206.09,306.66,180ft aquifer
+270,306.66,353.27,Middle aquitard
+270,353.27,505.35,400ft aquifer
+270,505.35,628,Deep aquitard
+270,628, ---,Paso Robles
+270, ---,206.09,Salinas aquitard
+271,57.29,307.3,180ft aquifer
+271,307.3,347.29,Middle aquitard
+271,347.29, ---,400ft aquifer
+271,608.35, ---,Paso Robles
+271, ---,608.35,Deep aquitard
+279,0,72.51,Salinas aquitard
+279,72.51,212.51,180ft aquifer
+279,212.51,332.5,Middle aquitard
+279,332.5,517.37,400ft aquifer
+279,517.37, ---,Deep aquitard
+296,132.89, ---,180ft aquifer
+296, ---,132.89,Salinas aquitard
+304,148.5,463.8,Middle aquitard
+304,463.8, ---,400ft aquifer
+304, ---,148.5,180ft aquifer
+315,127.68,163.31,Salinas aquitard
+315,163.31,281.05,180ft aquifer
+315,281.05,365.28,Middle aquitard
+315,365.28,493.92,400ft aquifer
+315,493.92, ---,Deep aquitard
+315, ---,127.68,Shallow aquifer
+317,261.85, ---,Middle aquitard
+317, ---,261.85,180ft aquifer
+323,149.3,178.94,Salinas aquitard
+323,178.94,263.22,180ft aquifer
+323,263.22,315.06,Middle aquitard
+323,315.06, ---,400ft aquifer
+323, ---,149.3,Shallow aquifer
+351,60.16,103.28,180ft aquifer
+351,103.28,140.01,Middle aquitard
+351,140.01, ---,400ft aquifer
+351, ---,60.16,Salinas aquitard
+353,30.15,205.56,Salinas aquitard
+353,205.56,235.15,180ft aquifer
+353,235.15,430.48,Middle aquitard
+353,430.48,502.58,400ft aquifer
+353,502.58, ---,Deep aquitard
+353, ---,30.15,Shallow aquifer
+370,44.49,127.6,Salinas aquitard
+370,127.6,193.64,180ft aquifer
+370,193.64,333.58,Middle aquitard
+370,333.58,410.28,400ft aquifer
+370,410.28, ---,Deep aquitard
+374,71.08,157.43,Salinas aquitard
+374,157.43,292.88,180ft aquifer
+374,292.88,427.81,Middle aquitard
+374,427.81,502.9,400ft aquifer
+374,502.9, ---,Deep aquitard
+374, ---,71.08,Shallow aquifer
+380,38.04,225.38,180ft aquifer
+380,225.38,298.02,Middle aquitard
+380,298.02, ---,400ft aquifer
+380, ---,38.04,Salinas aquitard
+388,143.08,243.09,180ft aquifer
+388,243.09,413.08,Middle aquitard
+388,413.08, ---,400ft aquifer
+388, ---,143.08,Salinas aquitard
+397,64.83, ---,Salinas aquitard
+397, ---,64.83,Shallow aquifer
+402,38.82,75.69,Salinas aquitard
+402,75.69,193.81,180ft aquifer
+402,193.81,318.62,Middle aquitard
+402,318.62,448.71,400ft aquifer
+402,448.71,527.62,Deep aquitard
+402,527.62, ---,Paso Robles
+402, ---,38.82,Shallow aquifer
+403,43.46,105.27,180ft aquifer
+403,105.27,160.06,Middle aquitard
+403,160.06,224.68,400ft aquifer
+403,224.68, ---,Deep aquitard
+403, ---,43.46,Salinas aquitard
+407,28.9, ---,Salinas aquitard
+407,112.77,288.79,180ft aquifer
+407,288.79,417.97,Middle aquitard
+407,417.97,470.97,400ft aquifer
+407,470.97, ---,Deep aquitard
+407, ---,28.9,Shallow aquifer
+420,218.57,273.11,Middle aquitard
+420,273.11,402.75,400ft aquifer
+420,402.75,468.31,Deep aquitard
+420,468.31,218.57,180ft aquifer
+420,468.31, ---,Paso Robles
+420, ---,468.31,Salinas aquitard
+423,126.94,199.22,180ft aquifer
+423,199.22, ---,Middle aquitard
+423, ---,126.94,Salinas aquitard
+441,61.33,95.28,Salinas aquitard
+441,95.28,162.97,180ft aquifer
+441,162.97,301.3,Middle aquitard
+441,301.3,362.98,400ft aquifer
+441,362.98,412.98,Deep aquitard
+441,412.98, ---,Paso Robles
+441, ---,61.33,Shallow aquifer
+465,78.83,157.32,180ft aquifer
+465,157.32,180.18,Middle aquitard
+465,180.18, ---,400ft aquifer
+465, ---,78.83,Salinas aquitard
+471,69.54,156.95,180ft aquifer
+471,156.95,270.24,Middle aquitard
+471,270.24, ---,400ft aquifer
+471, ---,69.54,Salinas aquitard
+489,63.57,184.5,180ft aquifer
+489,184.5, ---,Middle aquitard
+489, ---,63.57,Salinas aquitard
+499,59.56,191.14,Salinas aquitard
+499,191.14,253.13,180ft aquifer
+499,253.13, ---,Middle aquitard
+499, ---,59.56,Shallow aquifer
+506,51.75,133.23,Salinas aquitard
+506,133.23,159.66,180ft aquifer
+506,159.66,268.1,Middle aquitard
+506,268.1,404.06,400ft aquifer
+506,404.06, ---,Deep aquitard
+506, ---,51.75,Shallow aquifer
+515,103.15,203.16,180ft aquifer
+515,203.16,288.17,Middle aquitard
+515,288.17,363.17,400ft aquifer
+515,363.17,438.18,Deep aquitard
+515,438.18, ---,Paso Robles
+515, ---,103.15,Salinas aquitard
+520,31.69,118.69,180ft aquifer
+520,118.69,218.63,Middle aquitard
+520,218.63, ---,400ft aquifer
+520, ---,31.69,Salinas aquitard
+527,156.67,227.9,180ft aquifer
+527,227.9,281.67,Middle aquitard
+527,281.67,409.39,400ft aquifer
+527,409.39, ---,Deep aquitard
+527, ---,156.67,Salinas aquitard
+528,49.17,122.15,Salinas aquitard
+528,122.15,223.45,180ft aquifer
+528,223.45,382.69,Middle aquitard
+528,382.69, ---,400ft aquifer
+528, ---,49.17,Shallow aquifer
+531,20.01,102.4,Salinas aquitard
+531,102.4,200.31,180ft aquifer
+531,200.31,239.81,Middle aquitard
+531,239.81, ---,400ft aquifer
+531, ---,20.01,Shallow aquifer
+536,36.35,74.45,Shallow aquifer
+536,74.45,113.19,Salinas aquitard
+536,113.19,250.31,180ft aquifer
+536,250.31,323.01,Middle aquitard
+536,323.01,510.85,400ft aquifer
+536,510.85, ---,Deep aquitard
+545,108.44,183.44,180ft aquifer
+545,183.44,243.45,Middle aquitard
+545,243.45,343.46,400ft aquifer
+545,343.46,423.45,Deep aquitard
+545,423.45, ---,Paso Robles
+545, ---,108.44,Salinas aquitard
+546,48.14,91.59,Salinas aquitard
+546,91.59,166.45,180ft aquifer
+546,166.45,220.9,Middle aquitard
+546,220.9,327.53,400ft aquifer
+546,327.53, ---,Deep aquitard
+546, ---,48.14,Shallow aquifer
+552,22.8,84.21,180ft aquifer
+552,84.21,106.55,Middle aquitard
+552,106.55,221.93,400ft aquifer
+552,221.93, ---,Deep aquitard
+552, ---,22.8,Salinas aquitard
+559,128.18,143.1,Salinas aquitard
+559,143.1,230.91,180ft aquifer
+559,230.91,292.9,Middle aquitard
+559,292.9,331.64,400ft aquifer
+559,331.64, ---,Deep aquitard
+559, ---,128.18,Shallow aquifer
+562,91.67,284.47,180ft aquifer
+562,284.47,352.88,Middle aquitard
+562,352.88,568.23,400ft aquifer
+562,568.23, ---,Deep aquitard
+562, ---,91.67,Salinas aquitard
+566,42.12,135.98,180ft aquifer
+566,135.98,193.68,Middle aquitard
+566,193.68,298.04,400ft aquifer
+566,298.04, ---,Deep aquitard
+566, ---,42.12,Salinas aquitard
+567,24.57,107.38,180ft aquifer
+567,107.38,218.42,Middle aquitard
+567,218.42,247.27,400ft aquifer
+567,247.27, ---,Deep aquitard
+567, ---,24.57,Salinas aquitard
+571,47.51,92.61,Salinas aquitard
+571,92.61,179.89,180ft aquifer
+571,179.89,298.18,Middle aquitard
+571,298.18, ---,400ft aquifer
+571, ---,47.51,Shallow aquifer
+573,67.31,77.25,Salinas aquitard
+573,77.25,189.44,180ft aquifer
+573,189.44,309.93,Middle aquitard
+573,309.93, ---,400ft aquifer
+573, ---,67.31,Shallow aquifer
+576,105.57,176.27,180ft aquifer
+576,176.27, ---,Middle aquitard
+576, ---,105.57,Salinas aquitard
+578,0,57.03,Shallow aquifer
+578,57.03,118.84,Salinas aquitard
+578,118.84,188.85,180ft aquifer
+578,188.85,243.84,Middle aquitard
+578,243.84, ---,400ft aquifer
+583,114.46,161.18,Salinas aquitard
+583,161.18,230.26,180ft aquifer
+583,230.26,334.23,Middle aquitard
+583,334.23,411.71,400ft aquifer
+583,411.71, ---,Deep aquitard
+583, ---,114.46,Shallow aquifer
+587,24.12, ---,Salinas aquitard
+587,131.9,251.85,180ft aquifer
+587,251.85,321.9,Middle aquitard
+587,321.9, ---,400ft aquifer
+587, ---,24.12,Shallow aquifer
+597,65.97,237.97,Salinas aquitard
+597,237.97,333.51,180ft aquifer
+597,333.51,351.21,Middle aquitard
+597,351.21,531.23,400ft aquifer
+597,531.23, ---,Deep aquitard
+597, ---,65.97,Shallow aquifer
+603,63.41,128.59,Salinas aquitard
+603,128.59,269.25,180ft aquifer
+603,269.25,317.28,Middle aquitard
+603,317.28,433.93,400ft aquifer
+603,433.93, ---,Deep aquitard
+603, ---,63.41,Shallow aquifer
+643,145.45,172.96,Salinas aquitard
+643,172.96,247.74,180ft aquifer
+643,247.74,302.93,Middle aquitard
+643,302.93,442.01,400ft aquifer
+643,442.01, ---,Deep aquitard
+643, ---,145.45,Shallow aquifer
+646,99.84,172.5,Salinas aquitard
+646,172.5,231.15,180ft aquifer
+646,231.15,438.86,Middle aquitard
+646,438.86,486.15,400ft aquifer
+646,486.15,681.17,Deep aquitard
+646,681.17, ---,Paso Robles
+646, ---,99.84,Shallow aquifer
+648,83.54,109.88,Salinas aquitard
+648,109.88,223.63,180ft aquifer
+648,223.63,318.68,Middle aquitard
+648,318.68, ---,400ft aquifer
+648, ---,83.54,Shallow aquifer
+656,47.48,121.89,Salinas aquitard
+656,121.89,187.36,180ft aquifer
+656,187.36,311.08,Middle aquitard
+656,311.08,383.62,400ft aquifer
+656,383.62, ---,Deep aquitard
+657,42.78,112.88,Salinas aquitard
+657,112.88,242.79,180ft aquifer
+657,242.79, ---,Middle aquitard
+670,112.86,157.29,Salinas aquitard
+670,157.29,291.12,180ft aquifer
+670,291.12,472.23,Middle aquitard
+670,472.23,577.1,400ft aquifer
+670,577.1, ---,Deep aquitard
+670, ---,112.86,Shallow aquifer
+671,24.78,194.56,Salinas aquitard
+671,194.56,259.52,180ft aquifer
+671,259.52,481.26,Middle aquitard
+671,481.26,551.24,400ft aquifer
+671,551.24, ---,Deep aquitard
+671, ---,24.78,Shallow aquifer
+680,98.5,154.43,180ft aquifer
+680,154.43,251.16,Middle aquitard
+680,251.16,347.98,400ft aquifer
+680,347.98, ---,Deep aquitard
+680, ---,98.5,Salinas aquitard
+700,97.02,169.56,180ft aquifer
+700,169.56, ---,Middle aquitard
+700, ---,97.02,Salinas aquitard
+731,28.1,149.49,Salinas aquitard
+731,149.49,280.72,180ft aquifer
+731,280.72,362.79,Middle aquitard
+731,362.79,466.44,400ft aquifer
+731,466.44, ---,Deep aquitard
+731, ---,28.1,Shallow aquifer
+734,46.22,106.3,Salinas aquitard
+734,106.3,279.87,180ft aquifer
+734,279.87,476.8,Middle aquitard
+734,476.8, ---,400ft aquifer
+734, ---,46.22,Shallow aquifer
+773,166.85,206.09,180ft aquifer
+773,206.09,287.04,Middle aquitard
+773,287.04,412.14,400ft aquifer
+773,412.14,495.54,Deep aquitard
+773,495.54, ---,Paso Robles
+773, ---,166.85,Salinas aquitard
+776,55.95,106.85,180ft aquifer
+776,106.85, ---,Middle aquitard
+776, ---,55.95,Salinas aquitard
+779,46.54,89.05,180ft aquifer
+779,89.05, ---,Middle aquitard
+779, ---,46.54,Salinas aquitard
+780,26.41, ---,Salinas aquitard
+780,117.43,302.44,180ft aquifer
+780,302.44,337.45,Middle aquitard
+780,337.45,454.29,400ft aquifer
+780,454.29, ---,Deep aquitard
+780, ---,26.41,Shallow aquifer
+783,9.12, ---,Shallow aquifer
+783,59.79,134.25,180ft aquifer
+783,134.25,170.77,Middle aquitard
+783,170.77,241.01,400ft aquifer
+783,241.01, ---,Deep aquitard
+783, ---,59.79,Salinas aquitard
+787, ---, ---,180ft aquifer
+787, ---, ---,400ft aquifer
+787, ---, ---,Deep aquitard
+787, ---, ---,Middle aquitard
+787, ---, ---,Paso Robles
+787, ---, ---,Salinas aquitard
+787, ---, ---,Shallow aquifer
+788,29.69,122.41,180ft aquifer
+788,122.41,171.57,Middle aquitard
+788,171.57, ---,400ft aquifer
+788, ---,29.69,Salinas aquitard
+805,58.95,181.77,Salinas aquitard
+805,181.77,247.09,180ft aquifer
+805,247.09,478.86,Middle aquitard
+805,478.86, ---,400ft aquifer
+805, ---,58.95,Shallow aquifer
+806,35.29, ---,Salinas aquitard
+806, ---,35.29,Shallow aquifer
+815,92.99,133.65,Salinas aquitard
+815,133.65,325.65,180ft aquifer
+815,325.65, ---,Middle aquitard
+815, ---,92.99,Shallow aquifer
+817,19.48,110.5,Salinas aquitard
+817,110.5,197.94,180ft aquifer
+817,197.94,315.63,Middle aquitard
+817,315.63,417.62,400ft aquifer
+817,417.62, ---,Deep aquitard
+817, ---,19.48,Shallow aquifer
+826,115.23,242.25,180ft aquifer
+826,242.25,336.27,Middle aquitard
+826,336.27,442.54,400ft aquifer
+826,442.54, ---,Deep aquitard
+826, ---,115.23,Salinas aquitard
+841,114.52,155.33,180ft aquifer
+841,155.33,337.43,Middle aquitard
+841,337.43,561.9,400ft aquifer
+841,561.9, ---,Deep aquitard
+841, ---,114.52,Salinas aquitard
+861,82.32,142.53,Salinas aquitard
+861,142.53,240.79,180ft aquifer
+861,240.79,312.38,Middle aquitard
+861,312.38,503.46,400ft aquifer
+861,503.46, ---,Deep aquitard
+861, ---,82.32,Shallow aquifer
+868,17.26,62.74,Salinas aquitard
+868,62.74, ---,180ft aquifer
+868,175.35,515.61,Middle aquitard
+868,515.61, ---,400ft aquifer
+868, ---,17.26,Shallow aquifer
+871,375.88,439.3,Middle aquitard
+871,439.3, ---,400ft aquifer
+871,746.91, ---,Paso Robles
+871, ---,375.88,180ft aquifer
+871, ---,746.91,Deep aquitard
+872,39.17,106.07,Salinas aquitard
+872,106.07,219.47,180ft aquifer
+872,219.47,295.67,Middle aquitard
+872,295.67,359.54,400ft aquifer
+872,359.54,508.81,Deep aquitard
+872,508.81, ---,Paso Robles
+872, ---,39.17,Shallow aquifer
+874,45.77,139.47,Salinas aquitard
+874,139.47, ---,180ft aquifer
+874, ---,45.77,Shallow aquifer
+879,31.8,115.88,Salinas aquitard
+879,115.88,220.44,180ft aquifer
+879,220.44,270.94,Middle aquitard
+879,270.94,433.4,400ft aquifer
+879,433.4, ---,Deep aquitard
+879, ---,31.8,Shallow aquifer
+882,48.93,162.8,Salinas aquitard
+882,162.8,242.79,180ft aquifer
+882,242.79,402.81,Middle aquitard
+882,402.81,562.82,400ft aquifer
+882,562.82, ---,Deep aquitard
+882, ---,48.93,Shallow aquifer
+884,119.47,281.2,180ft aquifer
+884,281.2,307.36,Middle aquitard
+884,307.36,503.21,400ft aquifer
+884,503.21, ---,Deep aquitard
+884, ---,119.47,Salinas aquitard
+886,143.23,186.59,Salinas aquitard
+886,186.59,328.48,180ft aquifer
+886,328.48,353.86,Middle aquitard
+886,353.86, ---,400ft aquifer
+886, ---,143.23,Shallow aquifer
+890,70.54,129.99,Salinas aquitard
+890,129.99,201.63,180ft aquifer
+890,201.63,229.39,Middle aquitard
+890,229.39, ---,400ft aquifer
+890, ---,70.54,Shallow aquifer
+891,83.87,154.73,Salinas aquitard
+891,154.73,294.6,180ft aquifer
+891,294.6,399.59,Middle aquitard
+891,399.59, ---,400ft aquifer
+891, ---,83.87,Shallow aquifer
+898,14.12,107.94,Salinas aquitard
+898,107.94,282.95,180ft aquifer
+898,282.95,339.39,Middle aquitard
+898,339.39,387.18,400ft aquifer
+898,387.18,484.92,Deep aquitard
+898,484.92, ---,Paso Robles
+898, ---,14.12,Shallow aquifer
+903,92.54,225.55,Salinas aquitard
+903,225.55,268.8,180ft aquifer
+903,268.8, ---,Middle aquitard
+903, ---,92.54,Shallow aquifer
+911,48.48,109.48,180ft aquifer
+911,109.48,140.86,Middle aquitard
+911,140.86, ---,400ft aquifer
+911, ---,48.48,Salinas aquitard
+915,107.18,238.33,180ft aquifer
+915,238.33,297.1,Middle aquitard
+915,297.1,402.87,400ft aquifer
+915,402.87,719.88,Deep aquitard
+915,719.88, ---,Paso Robles
+915, ---,107.18,Salinas aquitard
+920,138.4,221.81,180ft aquifer
+920,221.81,337.51,Middle aquitard
+920,337.51, ---,400ft aquifer
+920, ---,138.4,Salinas aquitard
+921,115.06,221.86,180ft aquifer
+921,221.86,297.89,Middle aquitard
+921,297.89,329.64,400ft aquifer
+921,329.64, ---,Deep aquitard
+921, ---,115.06,Salinas aquitard
+924,20.29,48.56,Salinas aquitard
+924,48.56,185.64,180ft aquifer
+924,185.64,316.37,Middle aquitard
+924,316.37,532.18,400ft aquifer
+924,532.18,557.18,Deep aquitard
+924,557.18, ---,Paso Robles
+924, ---,20.29,Shallow aquifer
+931,22.69,122.55,Salinas aquitard
+931,122.55,232.56,180ft aquifer
+931,232.56,283.53,Middle aquitard
+931,283.53,542.58,400ft aquifer
+931,542.58, ---,Deep aquitard
+931, ---,22.69,Shallow aquifer
+932,27.08,181.16,Salinas aquitard
+932,181.16,254.76,180ft aquifer
+932,254.76,301.44,Middle aquitard
+932,301.44,547.37,400ft aquifer
+932,547.37, ---,Deep aquitard
+932, ---,27.08,Shallow aquifer
+934,116.09,167.79,Salinas aquitard
+934,167.79,229.17,180ft aquifer
+934,229.17,321.91,Middle aquitard
+934,321.91,515.98,400ft aquifer
+934,515.98, ---,Deep aquitard
+934, ---,116.09,Shallow aquifer
+960,58.24,106.81,Salinas aquitard
+960,106.81,199.39,180ft aquifer
+960,199.39,354.28,Middle aquitard
+960,354.28,533.62,400ft aquifer
+960,533.62, ---,Deep aquitard
+960, ---,58.24,Shallow aquifer
+964,212.12,379.94,180ft aquifer
+964,379.94,413.83,Middle aquitard
+964,413.83,557.44,400ft aquifer
+964,557.44, ---,Deep aquitard
+964, ---,212.12,Salinas aquitard
+965,47.73,102.03,180ft aquifer
+965,102.03,118,Middle aquitard
+965,118, ---,400ft aquifer
+965, ---,47.73,Salinas aquitard
+967,96.01,203.21,Salinas aquitard
+967,203.21,266.81,180ft aquifer
+967,266.81,297.7,Middle aquitard
+967,297.7, ---,400ft aquifer
+967, ---,96.01,Shallow aquifer
+975,108.57,190.27,Salinas aquitard
+975,190.27, ---,180ft aquifer
+975, ---,108.57,Shallow aquifer
+989,108.73,201.52,180ft aquifer
+989,201.52,241.19,Middle aquitard
+989,241.19, ---,400ft aquifer
+989, ---,108.73,Salinas aquitard
+996,122.74,222.75,180ft aquifer
+996,222.75,292.76,Middle aquitard
+996,292.76, ---,400ft aquifer
+996, ---,122.74,Salinas aquitard
+1007,53.32,128.25,Salinas aquitard
+1007,128.25,233.78,180ft aquifer
+1007,233.78,299.65,Middle aquitard
+1007,299.65, ---,400ft aquifer
+1007, ---,53.32,Shallow aquifer
+1020,68.61,99.71,Salinas aquitard
+1020,99.71,124.71,180ft aquifer
+1020,124.71,219.73,Middle aquitard
+1020,219.73,339.71,400ft aquifer
+1020,339.71, ---,Deep aquitard
+1020, ---,68.61,Shallow aquifer
+1022,126.8,195.7,Salinas aquitard
+1022,195.7, ---,180ft aquifer
+1022, ---,126.8,Shallow aquifer
+1033,106.36,144.82,Salinas aquitard
+1033,144.82,249.62,180ft aquifer
+1033,249.62,413.24,Middle aquitard
+1033,413.24, ---,400ft aquifer
+1033, ---,106.36,Shallow aquifer
+1046,101.34,170.05,Salinas aquitard
+1046,170.05,275.08,180ft aquifer
+1046,275.08,520.07,Middle aquitard
+1046,520.07,584.92,400ft aquifer
+1046,584.92, ---,Deep aquitard
+1046, ---,101.34,Shallow aquifer
+1051,106.17,125.27,Salinas aquitard
+1051,125.27,257.79,180ft aquifer
+1051,257.79, ---,Middle aquitard
+1051, ---,106.17,Shallow aquifer
+1060,50.91,119.36,Salinas aquitard
+1060,119.36,226.31,180ft aquifer
+1060,226.31,365.34,Middle aquitard
+1060,365.34,529.36,400ft aquifer
+1060,529.36, ---,Deep aquitard
+1066,57.71,122.74,Salinas aquitard
+1066,122.74, ---,180ft aquifer
+1066, ---,57.71,Shallow aquifer
+1084,11.49,43.74,Salinas aquitard
+1084,43.74, ---,180ft aquifer
+1084, ---,11.49,Shallow aquifer
+1087,0,41.5,Shallow aquifer
+1087,41.5,121.5,Salinas aquitard
+1087,121.5,166.51,180ft aquifer
+1087,166.51,276.52,Middle aquitard
+1087,276.52, ---,400ft aquifer
+1090,79.96,187.04,Salinas aquitard
+1090,187.04,270.69,180ft aquifer
+1090,270.69, ---,Middle aquitard
+1090, ---,79.96,Shallow aquifer
+1095,10.85,46.74,Shallow aquifer
+1095,46.74,74.4,Salinas aquitard
+1095,74.4,263.32,180ft aquifer
+1095,263.32,303.26,Middle aquitard
+1095,303.26,476.82,400ft aquifer
+1095,476.82, ---,Deep aquitard
+1096,49.1,151.65,Salinas aquitard
+1096,151.65, ---,180ft aquifer
+1096, ---,49.1,Shallow aquifer
+1097,94.27,127.56,Salinas aquitard
+1097,127.56,184.06,180ft aquifer
+1097,184.06, ---,Middle aquitard
+1097, ---,94.27,Shallow aquifer
+1099,95.71,115.69,Salinas aquitard
+1099,115.69,260.71,180ft aquifer
+1099,260.71,375.71,Middle aquitard
+1099,375.71, ---,400ft aquifer
+1109,317.78,460.36,400ft aquifer
+1109,460.36, ---,Deep aquitard
+1109, ---,317.78,Middle aquitard
+1123,100.78,159.97,Salinas aquitard
+1123,159.97,186.88,180ft aquifer
+1123,186.88,372.54,Middle aquitard
+1123,372.54, ---,400ft aquifer
+1123, ---,100.78,Shallow aquifer
+1148,23,63.03,Shallow aquifer
+1148,63.03,118.25,Salinas aquitard
+1148,118.25,226.13,180ft aquifer
+1148,226.13,316.12,Middle aquitard
+1148,316.12,490.48,400ft aquifer
+1148,490.48,628.39,Deep aquitard
+1148,628.39, ---,Paso Robles
+1157,32.74,152.76,Salinas aquitard
+1157,152.76,203.95,180ft aquifer
+1157,203.95,408.82,Middle aquitard
+1157,408.82, ---,400ft aquifer
+1162,75.53,132.16,Salinas aquitard
+1162,132.16,189.12,180ft aquifer
+1162,189.12,287.74,Middle aquitard
+1162,287.74,484.46,400ft aquifer
+1162,484.46, ---,Deep aquitard
+1162, ---,75.53,Shallow aquifer
+1167,90.79, ---,Salinas aquitard
+1167,161.72,203.26,180ft aquifer
+1167,203.26, ---,Middle aquitard
+1167, ---,90.79,Shallow aquifer
+1169,126.9,163.23,Salinas aquitard
+1169,163.23,235.71,180ft aquifer
+1169,235.71,396.21,Middle aquitard
+1169,396.21,562.76,400ft aquifer
+1169,562.76, ---,Deep aquitard
+1169, ---,126.9,Shallow aquifer
+1185,22.33,154.8,180ft aquifer
+1185,154.8,182.69,Middle aquitard
+1185,182.69,343.05,400ft aquifer
+1185,343.05, ---,Deep aquitard
+1185, ---,22.33,Salinas aquitard
+1191,143.15,165.76,Salinas aquitard
+1191,165.76,365.06,180ft aquifer
+1191,365.06, ---,Middle aquitard
+1191, ---,143.15,Shallow aquifer
+1201,220.93, ---,400ft aquifer
+1201, ---,220.93,Middle aquitard
+1203,18.82,80.64,Shallow aquifer
+1203,80.64,199.62,Salinas aquitard
+1203,199.62,317.5,180ft aquifer
+1203,317.5,366.55,Middle aquitard
+1203,366.55,568.99,400ft aquifer
+1203,568.99, ---,Deep aquitard
+1205,22.04,119.92,Salinas aquitard
+1205,119.92, ---,180ft aquifer
+1205, ---,22.04,Shallow aquifer
+1207,38.49,120.7,180ft aquifer
+1207,120.7,189.52,Middle aquitard
+1207,189.52, ---,400ft aquifer
+1207, ---,38.49,Salinas aquitard
+1209,40.16,57.32,Shallow aquifer
+1209,57.32,99.68,Salinas aquitard
+1209,99.68,185.02,180ft aquifer
+1209,185.02,299.42,Middle aquitard
+1209,299.42, ---,400ft aquifer
+1229,0,77.79,Shallow aquifer
+1229,77.79,142.79,Salinas aquitard
+1229,142.79,182.78,180ft aquifer
+1229,182.78,352.81,Middle aquitard
+1229,352.81, ---,400ft aquifer
+1233,123.96,263.94,180ft aquifer
+1233,263.94,399.59,Middle aquitard
+1233,399.59,523.56,400ft aquifer
+1233,523.56, ---,Deep aquitard
+1233, ---,123.96,Salinas aquitard
+1242,81.15,113.83,Salinas aquitard
+1242,113.83,314.02,180ft aquifer
+1242,314.02, ---,Middle aquitard
+1242,469.68,720.8,400ft aquifer
+1242,720.8, ---,Deep aquitard
+1242, ---,81.15,Shallow aquifer
+1255,106.4,206.76,Salinas aquitard
+1255,206.76,320.36,180ft aquifer
+1255,320.36,610.36,400ft aquifer
+1255,320.36,320.36,Middle aquitard
+1255,610.36, ---,Deep aquitard
+1255, ---,106.4,Shallow aquifer
+1257,99.56, ---,Salinas aquitard
+1257,235.12,249.16,180ft aquifer
+1257,249.16,274.28,Middle aquitard
+1257,274.28,447.3,400ft aquifer
+1257,447.3, ---,Deep aquitard
+1257, ---,99.56,Shallow aquifer
+1262,130.25,167.73,180ft aquifer
+1262,167.73,279.15,Middle aquitard
+1262,279.15,397.26,400ft aquifer
+1262,397.26, ---,Deep aquitard
+1262, ---,130.25,Salinas aquitard
+1265,84.77,181.18,180ft aquifer
+1265,181.18, ---,Middle aquitard
+1265, ---,84.77,Salinas aquitard
+1281,39.79,106.94,180ft aquifer
+1281,106.94, ---,Middle aquitard
+1281, ---,39.79,Salinas aquitard
+1282,113.29,212.2,180ft aquifer
+1282,212.2,235.47,Middle aquitard
+1282,235.47,442.02,400ft aquifer
+1282,442.02, ---,Deep aquitard
+1282, ---,113.29,Salinas aquitard
+1287,71.29,151.97,180ft aquifer
+1287,151.97,239.46,Middle aquitard
+1287,239.46, ---,400ft aquifer
+1287, ---,71.29,Salinas aquitard
+1290,199.74,380.91,180ft aquifer
+1290,380.91, ---,Middle aquitard
+1290, ---,199.74,Salinas aquitard
+1301,36.06,152.44,Salinas aquitard
+1301,152.44,220.28,180ft aquifer
+1301,220.28,291.45,Middle aquitard
+1301,291.45, ---,400ft aquifer
+1301, ---,36.06,Shallow aquifer
+1304,135.13,267.53,180ft aquifer
+1304,267.53,326.76,Middle aquitard
+1304,326.76,441.74,400ft aquifer
+1304,441.74,487.03,Deep aquitard
+1304,487.03, ---,Paso Robles
+1304, ---,135.13,Salinas aquitard
+1308,181.43,264.81,180ft aquifer
+1308,264.81,354.73,Middle aquitard
+1308,354.73,394.79,400ft aquifer
+1308,394.79, ---,Deep aquitard
+1308, ---,181.43,Salinas aquitard
+1309,51.11,108.47,Salinas aquitard
+1309,108.47,168.48,180ft aquifer
+1309,168.48,238.5,Middle aquitard
+1309,238.5,358.48,400ft aquifer
+1309,358.48,398.48,Deep aquitard
+1309,398.48, ---,Paso Robles
+1309, ---,51.11,Shallow aquifer
+1326,54.83,75.96,Salinas aquitard
+1326,75.96,121.75,180ft aquifer
+1326,121.75,421.94,Middle aquitard
+1326,421.94, ---,400ft aquifer
+1326, ---,54.83,Shallow aquifer
+1358,266.77,324.89,180ft aquifer
+1358,324.89,435.99,Middle aquitard
+1358,435.99, ---,400ft aquifer
+1358, ---,266.77,Salinas aquitard
+1359,50.46,133.96,Salinas aquitard
+1359,133.96,273.96,180ft aquifer
+1359,273.96,348.97,Middle aquitard
+1359,348.97,438.96,400ft aquifer
+1359,438.96,538.97,Deep aquitard
+1359,538.97, ---,Paso Robles
+1359, ---,50.46,Shallow aquifer
+1360,49.94,128.31,Salinas aquitard
+1360,128.31, ---,180ft aquifer
+1360, ---,49.94,Shallow aquifer
+1401,137.33,217.4,Salinas aquitard
+1401,217.4,304.64,180ft aquifer
+1401,304.64,373.08,Middle aquitard
+1401,373.08,476.93,400ft aquifer
+1401,476.93, ---,Deep aquitard
+1401, ---,137.33,Shallow aquifer
+1407,169.06,209.43,Salinas aquitard
+1407,209.43,391.11,180ft aquifer
+1407,391.11,462.58,Middle aquitard
+1407,462.58,670.35,400ft aquifer
+1407,670.35, ---,Deep aquitard
+1407, ---,169.06,Shallow aquifer
+1421,147.38,177.4,180ft aquifer
+1421,177.4,267.4,Middle aquitard
+1421,267.4, ---,400ft aquifer
+1421, ---,147.38,Salinas aquitard
+1433,43.01,138.47,180ft aquifer
+1433,138.47,187.97,Middle aquitard
+1433,187.97, ---,400ft aquifer
+1433, ---,43.01,Salinas aquitard
+1460,141.17,318.3,180ft aquifer
+1460,318.3,381.15,Middle aquitard
+1460,381.15,501.31,400ft aquifer
+1460,501.31, ---,Deep aquitard
+1460, ---,141.17,Salinas aquitard
+1464,83.9,144.99,Salinas aquitard
+1464,144.99,269.53,180ft aquifer
+1464,269.53,388.22,Middle aquitard
+1464,388.22,516.9,400ft aquifer
+1464,516.9, ---,Deep aquitard
+1464, ---,83.9,Shallow aquifer
+1466,77.6,142.76,Salinas aquitard
+1466,142.76,237.77,180ft aquifer
+1466,237.77,366.9,Middle aquitard
+1466,366.9,532.41,400ft aquifer
+1466,532.41, ---,Deep aquitard
+1466, ---,77.6,Shallow aquifer
+1480,97.6,129.35,Salinas aquitard
+1480,129.35,214.84,180ft aquifer
+1480,214.84, ---,Middle aquitard
+1480, ---,97.6,Shallow aquifer
+1508,120.02, ---,180ft aquifer
+1508, ---,120.02,Salinas aquitard
+1521,156.16,201.18,Salinas aquitard
+1521,201.18,246.26,180ft aquifer
+1521,246.26,361.67,Middle aquitard
+1521,361.67, ---,400ft aquifer
+1521, ---,156.16,Shallow aquifer
+1525,122.11,170.99,180ft aquifer
+1525, ---,122.11,Salinas aquitard
+1528,102.51, ---,180ft aquifer
+1528,268.1,386.63,400ft aquifer
+1528,386.63, ---,Deep aquitard
+1528, ---,268.1,Middle aquitard
+1528, ---,102.51,Salinas aquitard
+1529,57.78, ---,Salinas aquitard
+1529,136.06, ---,180ft aquifer
+1529, ---,57.78,Shallow aquifer
+1534,87.77,173.53,Salinas aquitard
+1534,173.53,278.67,180ft aquifer
+1534,278.67,361.4,Middle aquitard
+1534,361.4,474.5,400ft aquifer
+1534,474.5, ---,Deep aquitard
+1534, ---,87.77,Shallow aquifer
+1540,77.83,182.85,Salinas aquitard
+1540,182.85, ---,180ft aquifer
+1549,81.01,188.85,Salinas aquitard
+1549,188.85,255.28,180ft aquifer
+1549,255.28,363.31,Middle aquitard
+1549,363.31,526.24,400ft aquifer
+1549,526.24, ---,Deep aquitard
+1549, ---,81.01,Shallow aquifer
+1556,102.47,212.03,Salinas aquitard
+1556,212.03,276.02,180ft aquifer
+1556,276.02,362.4,Middle aquitard
+1556,362.4,391.2,400ft aquifer
+1556,391.2,517.51,Deep aquitard
+1556,517.51, ---,Paso Robles
+1557,89.78,135.11,Salinas aquitard
+1557,135.11,246.17,180ft aquifer
+1557,246.17,362.98,Middle aquitard
+1557,362.98,469.71,400ft aquifer
+1557,469.71, ---,Deep aquitard
+1557, ---,89.78,Shallow aquifer
+1562,78.56,500.75,Salinas aquitard
+1562,220.48,285.95,Middle aquitard
+1562,285.95,389.92,400ft aquifer
+1562,389.92,500.75,Deep aquitard
+1562,500.75,220.48,180ft aquifer
+1562,500.75, ---,Paso Robles
+1562, ---,78.56,Shallow aquifer
+1566,123.2,203.32,180ft aquifer
+1566,203.32,320.59,Middle aquitard
+1566,320.59,460.55,400ft aquifer
+1566,460.55, ---,Deep aquitard
+1566, ---,123.2,Salinas aquitard
+1576,246.93, ---,Middle aquitard
+1576, ---,246.93,180ft aquifer
+1579,48.21, ---,Salinas aquitard
+1579,92.72,217.41,180ft aquifer
+1579,217.41,301.05,Middle aquitard
+1579,301.05,446.59,400ft aquifer
+1579,446.59, ---,Deep aquitard
+1579, ---,48.21,Shallow aquifer
+1605,97.29,185.44,Middle aquitard
+1605,185.44,285.34,400ft aquifer
+1605,285.34, ---,Deep aquitard
+1605, ---,97.29,180ft aquifer
+1636,91.57,117.48,Salinas aquitard
+1636,117.48,266.58,180ft aquifer
+1636,266.58,451.6,Middle aquitard
+1636,451.6,601.6,400ft aquifer
+1636,601.6, ---,Deep aquitard
+1657,13.79,117.61,Salinas aquitard
+1657,117.61, ---,180ft aquifer
+1657,375.62,509.59,400ft aquifer
+1657,509.59, ---,Deep aquitard
+1657, ---,375.62,Middle aquitard
+1657, ---,13.79,Shallow aquifer
+1663,25.53, ---,Salinas aquitard
+1663, ---,25.53,Shallow aquifer
+1672,78.35, ---,Salinas aquitard
+1672,173.96,278.98,180ft aquifer
+1672,278.98,328.99,Middle aquitard
+1672,328.99,618.99,400ft aquifer
+1672,618.99, ---,Deep aquitard
+1672, ---,78.35,Shallow aquifer
+1694,36.73,143.94,Salinas aquitard
+1694,143.94,273.93,180ft aquifer
+1694,273.93, ---,Middle aquitard
+1694, ---,36.73,Shallow aquifer
+1698,0,217.73,Salinas aquitard
+1698,217.73,267.73,180ft aquifer
+1698,267.73,412.75,Middle aquitard
+1698,412.75,501.08,400ft aquifer
+1698,501.08, ---,Deep aquitard
+1704,97.84,127.83,Salinas aquitard
+1704,127.83,281.14,180ft aquifer
+1704,281.14,322.85,Middle aquitard
+1704,322.85,556.4,400ft aquifer
+1704,556.4, ---,Deep aquitard
+1705,78.47,138.92,Salinas aquitard
+1705,138.92,313.1,180ft aquifer
+1705,313.1,412.82,Middle aquitard
+1705,412.82,596.55,400ft aquifer
+1705,596.55, ---,Deep aquitard
+1705, ---,78.47,Shallow aquifer
+1707,118.34,248.9,Salinas aquitard
+1707,248.9,362.5,180ft aquifer
+1707,362.5,490.25,Middle aquitard
+1707,490.25, ---,400ft aquifer
+1707, ---,118.34,Shallow aquifer
+1710,190.83,325.04,180ft aquifer
+1710,325.04,375.34,Middle aquitard
+1710,375.34, ---,400ft aquifer
+1710, ---,190.83,Salinas aquitard
+1711,36.93, ---,Salinas aquitard
+1711, ---,36.93,Shallow aquifer
+1717,9.22,52.27,Salinas aquitard
+1717,52.27,149.14,180ft aquifer
+1717,149.14,278.29,Middle aquitard
+1717,278.29, ---,400ft aquifer
+1717, ---,9.22,Shallow aquifer
+1777,356.04, ---,400ft aquifer
+1777, ---,356.04,Middle aquitard
+1779,103.36,134.03,Salinas aquitard
+1779,134.03,259.03,180ft aquifer
+1779,259.03,344.05,Middle aquitard
+1779,344.05,449.07,400ft aquifer
+1779,449.07,544.06,Deep aquitard
+1779,544.06, ---,Paso Robles
+1779, ---,103.36,Shallow aquifer
+1780,58.92,138.47,180ft aquifer
+1780,138.47,170.29,Middle aquitard
+1780,170.29, ---,400ft aquifer
+1780, ---,58.92,Salinas aquitard
+1789,13.29,35.69,Salinas aquitard
+1789,35.69,156.97,180ft aquifer
+1789,156.97,250.26,Middle aquitard
+1789,250.26, ---,400ft aquifer
+1789, ---,13.29,Shallow aquifer
+1790,33.34,178.13,180ft aquifer
+1790,178.13,277.86,Middle aquitard
+1790,277.86,329.68,400ft aquifer
+1790,329.68, ---,Deep aquitard
+1790, ---,33.34,Salinas aquitard
+1792,55.42,108.54,Salinas aquitard
+1792,108.54,189.08,180ft aquifer
+1792,189.08,391.52,Middle aquitard
+1792,391.52, ---,400ft aquifer
+1792, ---,55.42,Shallow aquifer
+1795,164.21,208.31,180ft aquifer
+1795,208.31,267.83,Middle aquitard
+1795,267.83,445.5,400ft aquifer
+1795,445.5, ---,Deep aquitard
+1795, ---,164.21,Salinas aquitard
+1803,54.36,132.55,Salinas aquitard
+1803,132.55,232.56,180ft aquifer
+1803,232.56,392.54,Middle aquitard
+1803,392.54,662.57,400ft aquifer
+1803,662.57, ---,Deep aquitard
+1803, ---,54.36,Shallow aquifer
+1808,105.57,143.91,Salinas aquitard
+1808,143.91,256.86,180ft aquifer
+1808,256.86,295.52,Middle aquitard
+1808,295.52,446.33,400ft aquifer
+1808,446.33,514.85,Deep aquitard
+1808,514.85, ---,Paso Robles
+1808, ---,105.57,Shallow aquifer
+1812,87.38,169.63,Salinas aquitard
+1812,169.63,342.88,180ft aquifer
+1812,342.88,509.48,Middle aquitard
+1812,509.48, ---,400ft aquifer
+1812, ---,87.38,Shallow aquifer
+1816,93.41,313.4,180ft aquifer
+1816,313.4, ---,Middle aquitard
+1820,60.91,128.09,Salinas aquitard
+1820,128.09,181.84,180ft aquifer
+1820,181.84, ---,Middle aquitard
+1820, ---,60.91,Shallow aquifer
+1823,109.26,233.18,Salinas aquitard
+1823,233.18,321.49,180ft aquifer
+1823,321.49,389.85,Middle aquitard
+1823,389.85,483.86,400ft aquifer
+1823,483.86, ---,Deep aquitard
+1823, ---,109.26,Shallow aquifer
+1825,39.57,131.73,Salinas aquitard
+1825,131.73,403.23,180ft aquifer
+1825,403.23, ---,Middle aquitard
+1825, ---,39.57,Shallow aquifer
+1833,97.58,171.46,Salinas aquitard
+1833,171.46,301.25,180ft aquifer
+1833,301.25,403,Middle aquitard
+1833,403, ---,400ft aquifer
+1833, ---,97.58,Shallow aquifer
+1836,80.32,136.6,Salinas aquitard
+1836,136.6,229.1,180ft aquifer
+1836,229.1,454.8,Middle aquitard
+1836,454.8, ---,400ft aquifer
+1836, ---,80.32,Shallow aquifer
+1838,0.69,27.69,Shallow aquifer
+1838,27.69,162.67,Salinas aquitard
+1838,162.67, ---,180ft aquifer
+1840,457.62,618.23,400ft aquifer
+1840,618.23, ---,Deep aquitard
+1840, ---,457.62,Middle aquitard
+1841,53.39, ---,Salinas aquitard
+1841,377.36,464.39,400ft aquifer
+1841,464.39, ---,Deep aquitard
+1841, ---,377.36,Middle aquitard
+1841, ---,53.39,Shallow aquifer
+1844,151.27,209.74,Salinas aquitard
+1844,209.74,294.45,180ft aquifer
+1844,294.45, ---,Middle aquitard
+1844, ---,151.27,Shallow aquifer
+1846,37.12, ---,Salinas aquitard
+1846,147.94,225.7,180ft aquifer
+1846,225.7,392.93,Middle aquitard
+1846,392.93, ---,400ft aquifer
+1846, ---,37.12,Shallow aquifer
+1849,71.68,162.77,Salinas aquitard
+1849,162.77,275.19,180ft aquifer
+1849,275.19,372.75,Middle aquitard
+1849,372.75,492.77,400ft aquifer
+1849,492.77, ---,Deep aquitard
+1849, ---,71.68,Shallow aquifer
+1851,43.22,149.68,Salinas aquitard
+1851,149.68,269.93,180ft aquifer
+1851,269.93,392.77,Middle aquitard
+1851,392.77,512.79,400ft aquifer
+1851,512.79, ---,Deep aquitard
+1851, ---,43.22,Shallow aquifer
+1852,86.3,124.28,Salinas aquitard
+1852,124.28,248.67,180ft aquifer
+1852,248.67,343.62,Middle aquitard
+1852,343.62,367.63,400ft aquifer
+1852,367.63,454.6,Deep aquitard
+1852,454.6, ---,Paso Robles
+1852, ---,86.3,Shallow aquifer
+1853,114.12,155.42,Salinas aquitard
+1853,155.42,240.9,180ft aquifer
+1853,240.9,383.22,Middle aquitard
+1853,383.22,501.11,400ft aquifer
+1853,501.11, ---,Deep aquitard
+1853, ---,114.12,Shallow aquifer
+1855,142.17,299.48,180ft aquifer
+1855,299.48,368.04,Middle aquitard
+1855,368.04,454.38,400ft aquifer
+1855,454.38, ---,Deep aquitard
+1855, ---,142.17,Salinas aquitard
+1862,198.93,275.21,180ft aquifer
+1862,275.21,336.46,Middle aquitard
+1862,336.46,375.28,400ft aquifer
+1862,375.28,483.81,Deep aquitard
+1862,483.81, ---,Paso Robles
+1862, ---,198.93,Salinas aquitard
+1863,579.42, ---,Paso Robles
+1863, ---,579.42,Deep aquitard
+1873,24.93,128.02,Salinas aquitard
+1873,128.02,245.39,180ft aquifer
+1873,245.39,367.52,Middle aquitard
+1873,367.52, ---,400ft aquifer
+1873, ---,24.93,Shallow aquifer
+1882,45.7, ---,Salinas aquitard
+1882,77.97,139.23,180ft aquifer
+1882,139.23,250.39,Middle aquitard
+1882,250.39,372.9,400ft aquifer
+1882,372.9, ---,Deep aquitard
+1882, ---,45.7,Shallow aquifer
+1890,22.02,79.62,180ft aquifer
+1890,79.62,162.5,Middle aquitard
+1890,162.5,263.38,400ft aquifer
+1890,263.38, ---,Deep aquitard
+1890, ---,22.02,Salinas aquitard
+1914,60.53, ---,180ft aquifer
+1914,488.38, ---,400ft aquifer
+1914, ---,488.38,Middle aquitard
+1915,63.95, ---,Salinas aquitard
+1915,127.57, ---,180ft aquifer
+1915, ---,63.95,Shallow aquifer
+1917,150.2,240.95,Salinas aquitard
+1917,240.95, ---,180ft aquifer
+1917, ---,150.2,Shallow aquifer
+1922,93.55,179.39,Salinas aquitard
+1922,179.39,269.97,180ft aquifer
+1922,269.97,364.81,Middle aquitard
+1922,364.81, ---,400ft aquifer
+1922, ---,93.55,Shallow aquifer
+1934,49.47,193.7,Salinas aquitard
+1934,193.7, ---,180ft aquifer
+1934, ---,49.47,Shallow aquifer
+1935,0,103.48,Shallow aquifer
+1935,103.48,118.48,Salinas aquitard
+1935,118.48,173.47,180ft aquifer
+1935,173.47,253.49,Middle aquitard
+1935,253.49,373.48,400ft aquifer
+1935,373.48,493.5,Deep aquitard
+1935,493.5, ---,Paso Robles
+1936,128.02,253.39,180ft aquifer
+1936,253.39, ---,Middle aquitard
+1936, ---,128.02,Salinas aquitard
+1953,25.33,103.11,180ft aquifer
+1953,103.11, ---,Middle aquitard
+1953, ---,25.33,Salinas aquitard
+1957,47.28,180,Salinas aquitard
+1957,180,289.53,180ft aquifer
+1957,289.53,380.01,Middle aquitard
+1957,380.01, ---,400ft aquifer
+1957, ---,47.28,Shallow aquifer
+1962,104.18,159.4,Salinas aquitard
+1962,159.4,243.55,180ft aquifer
+1962,243.55,296.05,Middle aquitard
+1962,296.05,492.67,400ft aquifer
+1962,492.67, ---,Deep aquitard
+1962, ---,104.18,Shallow aquifer
+1966,81.81,129.99,Salinas aquitard
+1966,129.99,204.94,180ft aquifer
+1966,204.94,341.46,Middle aquitard
+1966,341.46,419.09,400ft aquifer
+1966,419.09, ---,Deep aquitard
+1966, ---,81.81,Shallow aquifer
+1970,39.47,126.09,180ft aquifer
+1970,126.09,164.99,Middle aquitard
+1970,164.99, ---,400ft aquifer
+1970, ---,39.47,Salinas aquitard
+1974,213.2,281.9,400ft aquifer
+1974,281.9, ---,Deep aquitard
+1974, ---,213.2,Middle aquitard
+1979,49.13,104.22,Salinas aquitard
+1979,104.22, ---,180ft aquifer
+1979, ---,49.13,Shallow aquifer
+1985,28.59,115.54,Salinas aquitard
+1985,115.54, ---,180ft aquifer
+1985, ---,28.59,Shallow aquifer
+2207,258.31,413.11,Middle aquitard
+2207,413.11,498.32,400ft aquifer
+2207,498.32, ---,Deep aquitard
+2208,109.73,115.82,Salinas aquitard
+2208,115.82,235.57,180ft aquifer
+2208,235.57,355.42,Middle aquitard
+2208,355.42,450.17,400ft aquifer
+2208,450.17,691.69,Deep aquitard
+2208,691.69, ---,Paso Robles
+2208, ---,109.73,Shallow aquifer
+2230,9.87,46.53,180ft aquifer
+2230,46.53, ---,Middle aquitard
+2230, ---,9.87,Salinas aquitard
+2260,139.18,154.73,Salinas aquitard
+2260,154.73,178.2,180ft aquifer
+2260,178.2,295.3,Middle aquitard
+2260,295.3,423.49,400ft aquifer
+2260,423.49, ---,Deep aquitard
+2260, ---,139.18,Shallow aquifer
+2297,136.68,179.33,Salinas aquitard
+2297,179.33,237.59,180ft aquifer
+2297,237.59,436.38,Middle aquitard
+2297,436.38,587.18,400ft aquifer
+2297,587.18,713.99,Deep aquitard
+2297,713.99, ---,Paso Robles
+2297, ---,136.68,Shallow aquifer
+2307,133.67,261.1,180ft aquifer
+2307,261.1,352.45,Middle aquitard
+2307,352.45,580.41,400ft aquifer
+2307,580.41, ---,Deep aquitard
+2307, ---,133.67,Salinas aquitard
+2312,62.74,191.58,Salinas aquitard
+2312,191.58,314.8,180ft aquifer
+2312,314.8,469.31,Middle aquitard
+2312,469.31,599.83,400ft aquifer
+2312,599.83, ---,Deep aquitard
+2312, ---,62.74,Shallow aquifer
+2315,124.88,204.93,Salinas aquitard
+2315,204.93, ---,180ft aquifer
+2315, ---,124.88,Shallow aquifer
+2318,34.02,53.05,Shallow aquifer
+2318,53.05, ---,Salinas aquitard
+2318,124.91,271.34,180ft aquifer
+2318,271.34,347.59,Middle aquitard
+2318,347.59, ---,400ft aquifer
+2320,42.07,124.58,Salinas aquitard
+2320,124.58,174.48,180ft aquifer
+2320,174.48, ---,Middle aquitard
+2320, ---,42.07,Shallow aquifer
+2321,129.32,223.01,Salinas aquitard
+2321,223.01,283.24,180ft aquifer
+2321,283.24,399.98,Middle aquitard
+2321,399.98,592.25,400ft aquifer
+2321,592.25, ---,Deep aquitard
+2321, ---,129.32,Shallow aquifer
+2325,42.06,117.61,Salinas aquitard
+2325,117.61, ---,180ft aquifer
+2325,388.03,497.18,400ft aquifer
+2325,497.18, ---,Deep aquitard
+2325, ---,388.03,Middle aquitard
+2325, ---,42.06,Shallow aquifer
+2353,150.56,180.64,Salinas aquitard
+2353,180.64,314.93,180ft aquifer
+2353,314.93,445.94,Middle aquitard
+2353,445.94,699.96,400ft aquifer
+2353,699.96,837.6,Deep aquitard
+2353,837.6, ---,Paso Robles
+2353, ---,150.56,Shallow aquifer
+2404,148.13,291.17,180ft aquifer
+2404,291.17,414.82,Middle aquitard
+2404,414.82,528.77,400ft aquifer
+2404,528.77,606.35,Deep aquitard
+2404,606.35, ---,Paso Robles
+2404, ---,148.13,Salinas aquitard
+2419,36.8,126.65,Salinas aquitard
+2419,126.65,250.47,180ft aquifer
+2419,250.47,408.84,Middle aquitard
+2419,408.84,544.7,400ft aquifer
+2419,544.7, ---,Deep aquitard
+2419, ---,36.8,Shallow aquifer
+2420,44,120.54,180ft aquifer
+2420,120.54, ---,Middle aquitard
+2420,612.87, ---,Paso Robles
+2420, ---,612.87,Deep aquitard
+2420, ---,44,Salinas aquitard
+2437,96.54,146.69,Salinas aquitard
+2437,146.69,231.7,180ft aquifer
+2437,231.7,393.15,Middle aquitard
+2437,393.15,559.16,400ft aquifer
+2437,559.16, ---,Deep aquitard
+2437, ---,96.54,Shallow aquifer
+2478,32.69,104.3,180ft aquifer
+2478,104.3, ---,Middle aquitard
+2478, ---,32.69,Salinas aquitard
+2518,38.95,91.42,180ft aquifer
+2518,91.42,163.9,Middle aquitard
+2518,163.9,377.41,400ft aquifer
+2518,377.41,605.23,Deep aquitard
+2518,605.23, ---,Paso Robles
+2518, ---,38.95,Salinas aquitard
+2534,19.99,81.92,180ft aquifer
+2534,81.92, ---,Middle aquitard
+2534,749.33, ---,Paso Robles
+2534, ---,749.33,Deep aquitard
+2534, ---,19.99,Salinas aquitard
+2537,92.02,166.58,180ft aquifer
+2537,166.58,229.67,Middle aquitard
+2537,229.67, ---,400ft aquifer
+2537, ---,92.02,Salinas aquitard
+2540,52.26,229.98,180ft aquifer
+2540,229.98, ---,Middle aquitard
+2540, ---,52.26,Salinas aquitard
+2571,70.79,122.03,180ft aquifer
+2571,122.03,136.86,Middle aquitard
+2571,136.86, ---,400ft aquifer
+2571, ---,70.79,Salinas aquitard
+2590,144,210.67,180ft aquifer
+2590,210.67,319.01,Middle aquitard
+2590,319.01, ---,400ft aquifer
+2590, ---,144,Salinas aquitard
+2659,42.57, ---,Salinas aquitard
+2659,154.57,224.55,180ft aquifer
+2659,224.55,426.38,Middle aquitard
+2659,426.38,594.58,400ft aquifer
+2659,594.58, ---,Deep aquitard
+2659, ---,42.57,Shallow aquifer
+2686,119.05,159.56,Salinas aquitard
+2686,159.56,316.38,180ft aquifer
+2686,316.38,450.84,Middle aquitard
+2686,450.84,578.47,400ft aquifer
+2686,578.47, ---,Deep aquitard
+2686, ---,119.05,Shallow aquifer
+2689,86.71,154.24,Salinas aquitard
+2689,154.24,291.59,180ft aquifer
+2689,291.59,413.33,Middle aquitard
+2689,413.33,520.23,400ft aquifer
+2689,520.23,662.76,Deep aquitard
+2689,662.76, ---,Paso Robles
+2689, ---,86.71,Shallow aquifer
+2698,158.03,170.71,Salinas aquitard
+2698,170.71,260.81,180ft aquifer
+2698,260.81,453.01,Middle aquitard
+2698,453.01,519.05,400ft aquifer
+2698,519.05, ---,Deep aquitard
+2698, ---,158.03,Shallow aquifer
+2699,107.78,301.62,180ft aquifer
+2699,301.62,441.62,Middle aquitard
+2699,441.62, ---,400ft aquifer
+2699, ---,107.78,Salinas aquitard
+2718,119.03,150.4,Salinas aquitard
+2718,150.4,240.33,180ft aquifer
+2718,240.33,339.07,Middle aquitard
+2718,339.07,609.36,400ft aquifer
+2718,609.36, ---,Deep aquitard
+2718, ---,119.03,Shallow aquifer
+2743,52.91, ---,Salinas aquitard
+2743,64.36,130.15,180ft aquifer
+2743,130.15,180.03,Middle aquitard
+2743,180.03,260.4,400ft aquifer
+2743,260.4,448.54,Deep aquitard
+2743,448.54, ---,Paso Robles
+2743, ---,52.91,Shallow aquifer
+2746,166.38,238.58,180ft aquifer
+2746,238.58,372.89,Middle aquitard
+2746,372.89,466.18,400ft aquifer
+2746,466.18, ---,Deep aquitard
+2746, ---,166.38,Salinas aquitard
+2750,169.3,203.64,180ft aquifer
+2750,203.64,247.79,Middle aquitard
+2750,247.79,394.97,400ft aquifer
+2750,394.97,556.86,Deep aquitard
+2750,556.86, ---,Paso Robles
+2750, ---,169.3,Salinas aquitard
+2753,30.66,209.34,180ft aquifer
+2753,209.34,242.43,Middle aquitard
+2753,242.43,389.92,400ft aquifer
+2753,389.92, ---,Deep aquitard
+2753, ---,30.66,Salinas aquitard
+2775,266.51,463.32,400ft aquifer
+2775,463.32, ---,Deep aquitard
+2775, ---,266.51,Middle aquitard
+2776,77.66,88.94,Salinas aquitard
+2776,88.94,278.22,180ft aquifer
+2776,278.22,321.89,Middle aquitard
+2776,321.89,502.87,400ft aquifer
+2776,502.87, ---,Deep aquitard
+2776, ---,77.66,Shallow aquifer
+2777,34.63,104.63,Salinas aquitard
+2777,104.63,195.06,180ft aquifer
+2777,195.06,263.96,Middle aquitard
+2777,263.96,517.33,400ft aquifer
+2777,517.33, ---,Deep aquitard
+2777, ---,34.63,Shallow aquifer
+2779,135.06,271.04,Salinas aquitard
+2779,271.04,397.5,180ft aquifer
+2779,397.5,472.84,Middle aquitard
+2779,472.84, ---,400ft aquifer
+2779, ---,135.06,Shallow aquifer
+2784,163.3, ---,180ft aquifer
+2784, ---,163.3,Salinas aquitard
+2785,38.92,77.9,Salinas aquitard
+2785,77.9, ---,180ft aquifer
+2785,162.36, ---,Middle aquitard
+2785, ---,38.92,Shallow aquifer
+2791,88.86,215.32,Salinas aquitard
+2791,215.32,349.86,180ft aquifer
+2791,349.86,438.65,Middle aquitard
+2791,438.65, ---,400ft aquifer
+2791, ---,88.86,Shallow aquifer
+2796,94.69,330.43,180ft aquifer
+2796,330.43,431.89,Middle aquitard
+2796,431.89, ---,400ft aquifer
+2796, ---,94.69,Salinas aquitard
+2799,403.67, ---,400ft aquifer
+2799, ---,403.67,Middle aquitard
+2801,76.76,188.89,180ft aquifer
+2801,188.89,287.83,Middle aquitard
+2801,287.83, ---,400ft aquifer
+2801, ---,76.76,Salinas aquitard
+2802,115.88,294.38,180ft aquifer
+2802,294.38,365.33,Middle aquitard
+2802,365.33,554.01,400ft aquifer
+2802,554.01, ---,Deep aquitard
+2802, ---,115.88,Salinas aquitard
+2803,0.46,67.46,180ft aquifer
+2803,67.46,93.52,Middle aquitard
+2803,93.52, ---,400ft aquifer
+2803,344.77, ---,Paso Robles
+2803, ---,344.77,Deep aquitard
+2803, ---,0.46,Salinas aquitard
+2805,37.11,86.98,Salinas aquitard
+2805,86.98,195.01,180ft aquifer
+2805,195.01,265.32,Middle aquitard
+2805,265.32, ---,400ft aquifer
+2805, ---,37.11,Shallow aquifer
+2806,34.53,137.19,180ft aquifer
+2806,137.19, ---,Middle aquitard
+2806,629.52, ---,Paso Robles
+2806, ---,629.52,Deep aquitard
+2806, ---,34.53,Salinas aquitard
+2818,46.21,146.03,180ft aquifer
+2818,146.03,195.95,Middle aquitard
+2818,195.95,343.41,400ft aquifer
+2818,343.41, ---,Deep aquitard
+2821,78.96, ---,400ft aquifer
+2821, ---,78.96,Middle aquitard
+2827,45.16,91.9,Salinas aquitard
+2827,91.9,206.38,180ft aquifer
+2827,206.38,323.99,Middle aquitard
+2827,323.99, ---,400ft aquifer
+2827, ---,45.16,Shallow aquifer
+2828,95.88,172.31,Salinas aquitard
+2828,172.31,307.41,180ft aquifer
+2828,307.41,349.44,Middle aquitard
+2828,349.44,579.61,400ft aquifer
+2828,579.61, ---,Deep aquitard
+2828, ---,95.88,Shallow aquifer
+2829,133.31,205.08,Salinas aquitard
+2829,205.08, ---,180ft aquifer
+2829,406.64,655.72,400ft aquifer
+2829,655.72,813.38,Deep aquitard
+2829,813.38, ---,Paso Robles
+2829, ---,406.64,Middle aquitard
+2829, ---,133.31,Shallow aquifer
+2830,65.07,120.48,180ft aquifer
+2830,120.48,217.86,Middle aquitard
+2830,217.86,306.24,400ft aquifer
+2830,306.24,721.76,Deep aquitard
+2830,721.76, ---,Paso Robles
+2830, ---,65.07,Salinas aquitard
+2832,71.04,140.79,Salinas aquitard
+2832,140.79,249.52,180ft aquifer
+2832,249.52,469.22,Middle aquitard
+2832,469.22,558.19,400ft aquifer
+2832,558.19, ---,Deep aquitard
+2832, ---,71.04,Shallow aquifer
+2861,129.64,203.1,180ft aquifer
+2861,203.1,286.14,Middle aquitard
+2861,286.14, ---,400ft aquifer
+2861, ---,129.64,Salinas aquitard
+10140,102.75,144.88,Salinas aquitard
+10140,144.88,357.54,180ft aquifer
+10140,357.54, ---,Middle aquitard
+10140, ---,102.75,Shallow aquifer
+10142,108.94, ---,Salinas aquitard
+10142, ---,108.94,Shallow aquifer
+10150,46.98,65.56,Salinas aquitard
+10150,65.56, ---,180ft aquifer
+10150, ---,46.98,Shallow aquifer
+10158,59.61,131.12,Salinas aquitard
+10158,131.12,300.42,180ft aquifer
+10158,300.42,465.14,Middle aquitard
+10158,465.14, ---,400ft aquifer
+10158, ---,59.61,Shallow aquifer
+10163,49.97, ---,Salinas aquitard
+10163,101.38,210.7,180ft aquifer
+10163,210.7,279.48,Middle aquitard
+10163,279.48,606.39,400ft aquifer
+10163,606.39, ---,Deep aquitard
+10163, ---,49.97,Shallow aquifer
+10164,36.41, ---,Salinas aquitard
+10164,102.99,177.99,180ft aquifer
+10164,177.99,228,Middle aquitard
+10164,228,593.01,400ft aquifer
+10164,593.01, ---,Deep aquitard
+10164, ---,36.41,Shallow aquifer
+10166,107.09,182.1,180ft aquifer
+10166,182.1,268.82,Middle aquitard
+10166,268.82,549.51,400ft aquifer
+10166,549.51, ---,Deep aquitard
+10167,43.82,83.65,Salinas aquitard
+10167,83.65, ---,180ft aquifer
+10167, ---,43.82,Shallow aquifer
+10191,293.14,355.25,180ft aquifer
+10191,395.44,539.24,400ft aquifer
+10191,539.24, ---,Deep aquitard
+10191, ---,395.44,Middle aquitard
+10191, ---,293.14,Salinas aquitard
+10263,78.91, ---,Salinas aquitard
+10263, ---,78.91,Shallow aquifer
+10266,173.55,247.51,Salinas aquitard
+10266,247.51,334.14,180ft aquifer
+10266,334.14,479.97,Middle aquitard
+10266,479.97, ---,400ft aquifer
+10266, ---,173.55,Shallow aquifer
+10317,132.27,197.17,Salinas aquitard
+10317,197.17, ---,180ft aquifer
+10317, ---,132.27,Shallow aquifer
+10359,144.7,203.09,Salinas aquitard
+10359,203.09,247.39,180ft aquifer
+10359,247.39,291.68,Middle aquitard
+10359,291.68,362.15,400ft aquifer
+10359,362.15, ---,Deep aquitard
+10359, ---,144.7,Shallow aquifer
+10369,146.72,200.26,Salinas aquitard
+10369,200.26,275.84,180ft aquifer
+10369,275.84, ---,Middle aquitard
+10369, ---,146.72,Shallow aquifer
+10377,81.06,88.94,Salinas aquitard
+10377,88.94,185.78,180ft aquifer
+10377,185.78, ---,Middle aquitard
+10377, ---,81.06,Shallow aquifer
+10382,95.79,120.41,Salinas aquitard
+10382,120.41,177.04,180ft aquifer
+10382,177.04,253.36,Middle aquitard
+10382,253.36, ---,400ft aquifer
+10382, ---,95.79,Shallow aquifer
+10386,118.44,213.05,180ft aquifer
+10386,213.05,237.25,Middle aquitard
+10386,237.25,484.34,400ft aquifer
+10386,484.34, ---,Deep aquitard
+10386, ---,118.44,Salinas aquitard
+10389,76.37,182.32,180ft aquifer
+10389,182.32,295.86,Middle aquitard
+10389,295.86, ---,400ft aquifer
+10389, ---,76.37,Salinas aquitard
+10392,61.07,131.15,Salinas aquitard
+10392,131.15, ---,180ft aquifer
+10392, ---,61.07,Shallow aquifer
+10407,295.75, ---,400ft aquifer
+10407, ---,295.75,Middle aquitard
+10449,30.94,101.32,180ft aquifer
+10449,101.32, ---,Middle aquitard
+10449, ---,30.94,Salinas aquitard
+10455,31.63,116.42,180ft aquifer
+10455,116.42, ---,Middle aquitard
+10455,490.56, ---,Paso Robles
+10455, ---,490.56,Deep aquitard
+10455, ---,31.63,Salinas aquitard
+10473,98.98,124.32,180ft aquifer
+10473,124.32, ---,Middle aquitard
+10473, ---,98.98,Salinas aquitard
+10479,46.8,167.78,180ft aquifer
+10479,167.78, ---,Middle aquitard
+10479, ---,46.8,Salinas aquitard
+10523,109.3,203.73,180ft aquifer
+10523,203.73,292.26,Middle aquitard
+10523,292.26,371.24,400ft aquifer
+10523,371.24, ---,Deep aquitard
+10523, ---,109.3,Salinas aquitard
+10524,180.78,231.24,180ft aquifer
+10524,231.24,297,Middle aquitard
+10524,297,368.32,400ft aquifer
+10524,368.32,419.76,Deep aquitard
+10524,419.76, ---,Paso Robles
+10524, ---,180.78,Salinas aquitard
+13024,58.9,93.59,Salinas aquitard
+13024,93.59, ---,180ft aquifer
+13024,431.35,567.09,400ft aquifer
+13024,567.09, ---,Deep aquitard
+13024, ---,431.35,Middle aquitard
+13024, ---,58.9,Shallow aquifer
+13060,73.19,153,Salinas aquitard
+13060,153,252.24,180ft aquifer
+13060,252.24,282.23,Middle aquitard
+13060,282.23,522.24,400ft aquifer
+13060,522.24, ---,Deep aquitard
+13060, ---,73.19,Shallow aquifer
+13073,17.03,117.1,Salinas aquitard
+13073,117.1,208.41,180ft aquifer
+13073,208.41,408.94,Middle aquitard
+13073,408.94,556.17,400ft aquifer
+13073, ---,17.03,Shallow aquifer
+13084,15.09,102.83,Salinas aquitard
+13084,102.83,219.83,180ft aquifer
+13084,219.83,329.76,Middle aquitard
+13084,329.76,571.37,400ft aquifer
+13084,571.37, ---,Deep aquitard
+13084, ---,15.09,Shallow aquifer
+13096,20.67,114.18,Salinas aquitard
+13096,114.18,238.18,180ft aquifer
+13096,238.18,277.62,Middle aquitard
+13096,277.62,546.09,400ft aquifer
+13096,546.09, ---,Deep aquitard
+13096, ---,20.67,Shallow aquifer
+14316,113.7,206.05,Salinas aquitard
+14316,206.05,313.97,180ft aquifer
+14316,313.97, ---,Middle aquitard
+14316, ---,113.7,Shallow aquifer
+14326,22.41,132.42,Salinas aquitard
+14326,132.42,202.4,180ft aquifer
+14326,202.4,397.43,Middle aquitard
+14326,397.43, ---,400ft aquifer
+14355,148.82,256.83,180ft aquifer
+14355,256.83,422.83,Middle aquitard
+14355,422.83, ---,400ft aquifer
+14355, ---,148.82,Salinas aquitard
+14465,118.51,222.81,Salinas aquitard
+14465,222.81,370.57,180ft aquifer
+14465,370.57,473.13,Middle aquitard
+14465,473.13, ---,400ft aquifer
+14465, ---,118.51,Shallow aquifer
+14487,184.45,199.29,Salinas aquitard
+14487,199.29,372,180ft aquifer
+14487,372,442.87,Middle aquitard
+14487,442.87,560.43,400ft aquifer
+14487,560.43, ---,Deep aquitard
+14487, ---,184.45,Shallow aquifer
+14544,220.68,446.99,180ft aquifer
+14544,446.99,475.26,Middle aquitard
+14544,475.26,633.87,400ft aquifer
+14544,633.87,953.47,Deep aquitard
+14544,953.47, ---,Paso Robles
+14544, ---,220.68,Salinas aquitard
+14565,62.4,92.43,Salinas aquitard
+14565,92.43, ---,180ft aquifer
+14817,69.69,89.11,Salinas aquitard
+14817,89.11,147.94,180ft aquifer
+14817,147.94,295.03,Middle aquitard
+14817,295.03,434.38,400ft aquifer
+14817,434.38, ---,Deep aquitard
+14817, ---,69.69,Shallow aquifer
+14824,102.7,127.7,Salinas aquitard
+14824,127.7,254.64,180ft aquifer
+14824,254.64,437.72,Middle aquitard
+14824,437.72,569.08,400ft aquifer
+14824,569.08, ---,Deep aquitard
+14879,90.34, ---,180ft aquifer
+14879, ---,90.34,Salinas aquitard
+14963,67.9,121.86,Salinas aquitard
+14963,121.86,323.33,180ft aquifer
+14963,323.33,357.7,Middle aquitard
+14963,357.7,452.76,400ft aquifer
+14963,452.76, ---,Deep aquitard
+14963, ---,67.9,Shallow aquifer
+14964,17.64,115.46,Salinas aquitard
+14964,115.46, ---,180ft aquifer
+14964, ---,17.64,Shallow aquifer
+14967,145.15,355.17,180ft aquifer
+14967,355.17,480.17,Middle aquitard
+14967,480.17,525.19,400ft aquifer
+14967,525.19, ---,Deep aquitard
+14967, ---, ---,Paso Robles
+14967, ---, ---,Salinas aquitard
+14967, ---, ---,Shallow aquifer
+14983,231.15,276.16,180ft aquifer
+14983,276.16,361.14,Middle aquitard
+14983,361.14, ---,400ft aquifer
+14983, ---, ---,Deep aquitard
+14983, ---, ---,Paso Robles
+14983, ---, ---,Salinas aquitard
+14983, ---, ---,Shallow aquifer
+14985,77.07,149.55,Salinas aquitard
+14985,149.55,264.25,180ft aquifer
+14985,264.25,484.01,Middle aquitard
+14985,484.01,623.85,400ft aquifer
+14985,623.85,782.26,Deep aquitard
+14985,782.26, ---,Paso Robles
+14985, ---,77.07,Shallow aquifer
+15006,82.73,234.06,Salinas aquitard
+15006,234.06,315.56,180ft aquifer
+15006,315.56,539.9,Middle aquitard
+15006,539.9, ---,400ft aquifer
+15006, ---,82.73,Shallow aquifer
+15067,28.22,130.65,Salinas aquitard
+15067,130.65,296.15,180ft aquifer
+15067,296.15,455.99,Middle aquitard
+15067,455.99, ---,400ft aquifer
+15067, ---,28.22,Shallow aquifer
+15080,28.94,191.14,Salinas aquitard
+15080,191.14,205.61,180ft aquifer
+15080,205.61,433.72,Middle aquitard
+15080,433.72, ---,400ft aquifer
+15080, ---,28.94,Shallow aquifer
+15149,56.53,77.3,Shallow aquifer
+15149,77.3,165.54,Salinas aquitard
+15149,165.54,233.45,180ft aquifer
+15149,233.45, ---,Middle aquitard
+15330,116.51, ---,Salinas aquitard
+15330,434.34,549.34,400ft aquifer
+15330,549.34,699.35,Deep aquitard
+15330,699.35, ---,Paso Robles
+15330, ---,116.51,Shallow aquifer
+15571,81.43,124.51,Salinas aquitard
+15571,124.51,252.37,180ft aquifer
+15571,252.37,300.9,Middle aquitard
+15571,300.9, ---,400ft aquifer
+15571, ---,81.43,Shallow aquifer
+15661,59.03,121.4,180ft aquifer
+15661,121.4,381.55,Middle aquitard
+15661,381.55, ---,400ft aquifer
+15661, ---,59.03,Salinas aquitard
+15662,45.2,122.78,180ft aquifer
+15662,122.78, ---,Middle aquitard
+15662, ---,45.2,Salinas aquitard
+15684,103.96, ---,Salinas aquitard
+15684,152.01,262.02,180ft aquifer
+15684,262.02,272.03,Middle aquitard
+15684,272.03, ---,400ft aquifer
+15684, ---,103.96,Shallow aquifer
+15722,40.16,66.83,Shallow aquifer
+15722,66.83,90.36,Salinas aquitard
+15722,90.36,220.48,180ft aquifer
+15722,220.48,258.08,Middle aquitard
+15722,258.08,486.28,400ft aquifer
+15722,486.28, ---,Deep aquitard
+15779,100.58,149.15,Salinas aquitard
+15779,149.15,194.79,180ft aquifer
+15779,194.79, ---,Middle aquitard
+15779, ---,100.58,Shallow aquifer
+15807,47.16,130.49,Salinas aquitard
+15807,130.49,245.32,180ft aquifer
+15807,245.32, ---,Middle aquitard
+15807, ---,47.16,Shallow aquifer
+15809,124.58, ---,180ft aquifer
+15809, ---,124.58,Salinas aquitard
+15851,89.61,226,Salinas aquitard
+15851,226,329.77,180ft aquifer
+15851,329.77,397.97,Middle aquitard
+15851,397.97, ---,400ft aquifer
+15851, ---,89.61,Shallow aquifer
+15892,116.51,162.41,Salinas aquitard
+15892,162.41, ---,180ft aquifer
+15892, ---,116.51,Shallow aquifer
+15988,99.21,121.86,Salinas aquitard
+15988,121.86,246.99,180ft aquifer
+15988,246.99, ---,Middle aquitard
+15988, ---,99.21,Shallow aquifer
+16014,72.14,150.4,Salinas aquitard
+16014,150.4,165.89,180ft aquifer
+16014,165.89, ---,Middle aquitard
+16014, ---,72.14,Shallow aquifer
+16022,45.4,141.66,Salinas aquitard
+16022,141.66,214.99,180ft aquifer
+16022,214.99,278.33,Middle aquitard
+16022,278.33, ---,400ft aquifer
+16022, ---,45.4,Shallow aquifer
+16031,113.79,136.95,Salinas aquitard
+16031,136.95,185.2,180ft aquifer
+16031,185.2, ---,Middle aquitard
+16031, ---,113.79,Shallow aquifer
+16083,93.45, ---,180ft aquifer
+16083, ---,93.45,Salinas aquitard
+16099,85.4,113.26,Salinas aquitard
+16099,113.26, ---,180ft aquifer
+16099, ---,85.4,Shallow aquifer
+16144,24.9,89.28,Salinas aquitard
+16144,89.28, ---,180ft aquifer
+16164,571.53, ---,Paso Robles
+16164, ---,571.53,Deep aquitard
+16171,63.03,112.11,180ft aquifer
+16171,112.11,318.73,Middle aquitard
+16171,318.73,419.46,400ft aquifer
+16171,419.46,619.38,Deep aquitard
+16171,619.38, ---,Paso Robles
+16171, ---,63.03,Salinas aquitard
+16277,106.21,124.59,Salinas aquitard
+16277,124.59,167.32,180ft aquifer
+16277,167.32, ---,Middle aquitard
+16277, ---,106.21,Shallow aquifer
+16383,0,91.51,Shallow aquifer
+16383,91.51,106.5,Salinas aquitard
+16383,106.5,161.49,180ft aquifer
+16383,161.49,241.51,Middle aquitard
+16383,241.51,442.67,400ft aquifer
+16383,442.67, ---,Deep aquitard
+16406,64.73,83.54,Salinas aquitard
+16406,83.54,140.13,180ft aquifer
+16406,140.13,223.36,Middle aquitard
+16406,223.36,335.15,400ft aquifer
+16406,335.15, ---,Deep aquitard
+16406, ---,64.73,Shallow aquifer
+17300,179.04,224.32,180ft aquifer
+17300,224.32,254.24,Middle aquitard
+17300,254.24,478.8,400ft aquifer
+17300,478.8, ---,Deep aquitard
+17300, ---,179.04,Salinas aquitard
+17402,88.76, ---,Salinas aquitard
+17402, ---,88.76,Shallow aquifer
+17502,45.6,146.16,180ft aquifer
+17502,146.16,300.08,Middle aquitard
+17502,300.08,377.83,400ft aquifer
+17502,377.83, ---,Deep aquitard
+17502, ---,45.6,Salinas aquitard
+17521,107.05, ---,Salinas aquitard
+17521, ---,107.05,Shallow aquifer
+17531,87.75,159.44,180ft aquifer
+17531,159.44,291.23,Middle aquitard
+17531,291.23,361.71,400ft aquifer
+17531,361.71, ---,Deep aquitard
+17531, ---,87.75,Salinas aquitard
+17609,12.16,142.75,180ft aquifer
+17609,142.75,172.36,Middle aquitard
+17609,172.36,316.73,400ft aquifer
+17609,316.73, ---,Deep aquitard
+17609, ---,12.16,Salinas aquitard
+17610,59.69,110.17,180ft aquifer
+17610,110.17, ---,Middle aquitard
+17610, ---,59.69,Salinas aquitard
+17830,178.7,233.15,180ft aquifer
+17830,233.15, ---,Middle aquitard
+17830, ---,178.7,Salinas aquitard
+17834,128.87, ---,180ft aquifer
+17834, ---,128.87,Salinas aquitard
+17847,22.37,162.68,Salinas aquitard
+17847,162.68,225.71,180ft aquifer
+17847,225.71,266.93,Middle aquitard
+17847,266.93,400.27,400ft aquifer
+17847,400.27, ---,Deep aquitard
+17847, ---,22.37,Shallow aquifer
+17929,29.8,121.76,180ft aquifer
+17929,121.76,180.79,Middle aquitard
+17929,180.79,317.02,400ft aquifer
+17929,317.02, ---,Deep aquitard
+17929, ---,29.8,Salinas aquitard
+17933,65.02,132.53,400ft aquifer
+17933,132.53, ---,Deep aquitard
+17933, ---,65.02,Middle aquitard
+17936,44.45,127.94,180ft aquifer
+17936,127.94, ---,Middle aquitard
+17936,354.75,1406.89,Deep aquitard
+17936,1406.89, ---,Paso Robles
+17936, ---,354.75,400ft aquifer
+17936, ---,44.45,Salinas aquitard
+17960,338.21,470.15,400ft aquifer
+17960,470.15, ---,Deep aquitard
+17960, ---,338.21,Middle aquitard
+17997, ---, ---,180ft aquifer
+17997, ---, ---,400ft aquifer
+17997, ---, ---,Deep aquitard
+17997, ---, ---,Middle aquitard
+17997, ---, ---,Paso Robles
+17997, ---, ---,Salinas aquitard
+17997, ---, ---,Shallow aquifer
+18010,163.76,275.01,400ft aquifer
+18010,275.01, ---,Deep aquitard
+18010, ---,163.76,Middle aquitard
+18031,79.67, ---,Middle aquitard
+18031, ---,79.67,180ft aquifer
+18063,73.33,129.57,180ft aquifer
+18063,129.57,161.27,Middle aquitard
+18063,161.27, ---,400ft aquifer
+18063, ---,73.33,Salinas aquitard
+18084,75.19,144.73,180ft aquifer
+18084,144.73,179.49,Middle aquitard
+18084,179.49,326.73,400ft aquifer
+18084,326.73, ---,Deep aquitard
+18084, ---,75.19,Salinas aquitard
+18412,42.04,153.08,180ft aquifer
+18412,153.08,194.49,Middle aquitard
+18412,194.49, ---,400ft aquifer
+18412, ---,42.04,Salinas aquitard
+18414,37.47,106.1,180ft aquifer
+18414,106.1,181.66,Middle aquitard
+18414,181.66, ---,400ft aquifer
+18414, ---,37.47,Salinas aquitard
+18415,4.11,57.15,180ft aquifer
+18415,57.15,97.81,Middle aquitard
+18415,97.81, ---,400ft aquifer
+18415, ---,4.11,Salinas aquitard
+18416, ---, ---,180ft aquifer
+18416, ---, ---,400ft aquifer
+18416, ---, ---,Deep aquitard
+18416, ---, ---,Middle aquitard
+18416, ---, ---,Paso Robles
+18416, ---, ---,Salinas aquitard
+18416, ---, ---,Shallow aquifer
+18419,22.44,101.48,180ft aquifer
+18419,101.48,240.04,Middle aquitard
+18419,240.04, ---,400ft aquifer
+18419, ---,22.44,Salinas aquitard
+18543,50.21,113.42,180ft aquifer
+18543,113.42,168.21,Middle aquitard
+18543,168.21,218.78,400ft aquifer
+18543,218.78, ---,Deep aquitard
+18543, ---,50.21,Salinas aquitard
+18587,64.33, ---,180ft aquifer
+18587,173.55, ---,400ft aquifer
+18587, ---,173.55,Middle aquitard
+18587, ---,64.33,Salinas aquitard
+18590,61.5,112.06,180ft aquifer
+18590,112.06,188.25,Middle aquitard
+18590,188.25, ---,400ft aquifer
+18590, ---,61.5,Salinas aquitard
+18614,89.98,187.37,400ft aquifer
+18614,187.37, ---,Deep aquitard
+18614, ---,89.98,Middle aquitard
+19993,62.57,95.3,Salinas aquitard
+19993,95.3,158.78,180ft aquifer
+19993,158.78, ---,Middle aquitard
+19993, ---,62.57,Shallow aquifer
+20028,126.94,177.58,180ft aquifer
+20028,177.58,302.72,Middle aquitard
+20028,302.72,467.78,400ft aquifer
+20028,467.78, ---,Deep aquitard
+20028, ---,126.94,Salinas aquitard
+20047,118.83,215.69,180ft aquifer
+20047,215.69,352.92,Middle aquitard
+20047,352.92, ---,400ft aquifer
+20047, ---,118.83,Salinas aquitard
+20090,138.23,207.33,180ft aquifer
+20090,207.33,308.68,Middle aquitard
+20090,308.68,412.03,400ft aquifer
+20090,308.68,138.23,Salinas aquitard
+20090, ---,308.68,Shallow aquifer
+20371,50.35,210.88,180ft aquifer
+20371,210.88,234.4,Middle aquitard
+20371,234.4,263.03,400ft aquifer
+20371,263.03,499.58,Deep aquitard
+20371,499.58, ---,Paso Robles
+20371, ---,50.35,Salinas aquitard
+20408,74.57,136.13,180ft aquifer
+20408,136.13, ---,Middle aquitard
+20408, ---,74.57,Salinas aquitard
+20412,41.63,135.34,180ft aquifer
+20412,135.34, ---,Middle aquitard
+20412, ---,41.63,Salinas aquitard
+20560,29.56,86.82,Salinas aquitard
+20560,86.82, ---,180ft aquifer
+20560, ---,29.56,Shallow aquifer
+20561,68.9,140.52,Salinas aquitard
+20561,140.52,230.51,180ft aquifer
+20561,230.51, ---,Middle aquitard
+20561, ---,68.9,Shallow aquifer
+20658,68.64, ---,Salinas aquitard
+20658,124.15,209.13,180ft aquifer
+20658,209.13,274.16,Middle aquitard
+20658,274.16,410.28,400ft aquifer
+20658,410.28, ---,Deep aquitard
+20658, ---,68.64,Shallow aquifer
+20683,7.65,84.78,180ft aquifer
+20683,84.78,112,Middle aquitard
+20683,112,241.32,400ft aquifer
+20683,241.32, ---,Deep aquitard
+20769,238.86, ---,180ft aquifer
+20769, ---,238.86,Salinas aquitard
+20806,41.91,270.41,180ft aquifer
+20806,270.41,532.76,Middle aquitard
+20806,532.76,596.24,400ft aquifer
+20806, ---,41.91,Salinas aquitard
+20841,86.26,226.26,180ft aquifer
+20841,226.26,336.2,Middle aquitard
+20841,336.2,511.83,400ft aquifer
+20841,511.83, ---,Deep aquitard
+20841, ---,86.26,Salinas aquitard
+20842,137.04,181.08,Salinas aquitard
+20842,181.08,256.34,180ft aquifer
+20842,256.34,322.52,Middle aquitard
+20842,322.52,344.75,400ft aquifer
+20842,344.75, ---,Deep aquitard
+20842, ---,137.04,Shallow aquifer
+20844,28.09,108.22,Salinas aquitard
+20844,108.22, ---,180ft aquifer
+20844,520.73, ---,400ft aquifer
+20844, ---,520.73,Middle aquitard
+20844, ---,28.09,Shallow aquifer
+20847,78.51, ---,180ft aquifer
+20847, ---,78.51,Salinas aquitard
+20848,71.52,84.95,Salinas aquitard
+20848,84.95,203.82,180ft aquifer
+20848,203.82, ---,Middle aquitard
+20848, ---,71.52,Shallow aquifer
+20851,45.94,118.74,Salinas aquitard
+20851,118.74,263.62,180ft aquifer
+20851,263.62,362.4,Middle aquitard
+20851,362.4,473.49,400ft aquifer
+20851,473.49, ---,Deep aquitard
+20851, ---,45.94,Shallow aquifer
+20852,78.68,241.35,Salinas aquitard
+20852,241.35,361.76,180ft aquifer
+20852,361.76,391.73,Middle aquitard
+20852,391.73,538.04,400ft aquifer
+20852,538.04, ---,Deep aquitard
+20852, ---,78.68,Shallow aquifer
+20853,122.91,218,Salinas aquitard
+20853,218,260.27,180ft aquifer
+20853,260.27,291.97,Middle aquitard
+20853,291.97,467.83,400ft aquifer
+20853,467.83, ---,Deep aquitard
+20853, ---,122.91,Shallow aquifer
+20854,83.91,116.84,Salinas aquitard
+20854,116.84,262.05,180ft aquifer
+20854,262.05, ---,Middle aquitard
+20854, ---,83.91,Shallow aquifer
+20856,90.99,176.19,Salinas aquitard
+20856,176.19,266.69,180ft aquifer
+20856,266.69,378.01,Middle aquitard
+20856,378.01,450.01,400ft aquifer
+20856,450.01, ---,Deep aquitard
+20856, ---,90.99,Shallow aquifer
+20858,22.72, ---,Salinas aquitard
+20858, ---,22.72,Shallow aquifer
+20859,199.98,269.99,180ft aquifer
+20859,269.99,340.01,Middle aquitard
+20859,340.01,376.32,400ft aquifer
+20859,376.32,484.92,Deep aquitard
+20859,484.92, ---,Paso Robles
+20859, ---,199.98,Salinas aquitard
+20860,12.77,100.89,Salinas aquitard
+20860,100.89,272.68,180ft aquifer
+20860,272.68,332.93,Middle aquitard
+20860,332.93,385.87,400ft aquifer
+20860,385.87,495.48,Deep aquitard
+20860,495.48, ---,Paso Robles
+20860, ---,12.77,Shallow aquifer
+20862,132.68,266.81,180ft aquifer
+20862,266.81,331.05,Middle aquitard
+20862,331.05,400.96,400ft aquifer
+20862,400.96,484.05,Deep aquitard
+20862,484.05, ---,Paso Robles
+20862, ---,132.68,Salinas aquitard
+20864,128.67,275.75,180ft aquifer
+20864,275.75,349.29,Middle aquitard
+20864,349.29,441.9,400ft aquifer
+20864,441.9,515.43,Deep aquitard
+20864,515.43, ---,Paso Robles
+20864, ---,128.67,Salinas aquitard
+20870,145.28,279.85,180ft aquifer
+20870,279.85,355.3,Middle aquitard
+20870,355.3,397.17,400ft aquifer
+20870,397.17,500.32,Deep aquitard
+20870,500.32, ---,Paso Robles
+20870, ---,145.28,Salinas aquitard
+20872,37.5,160.57,Salinas aquitard
+20872,160.57,257.91,180ft aquifer
+20872,257.91,330.59,Middle aquitard
+20872,330.59,430.6,400ft aquifer
+20872,430.6,510.59,Deep aquitard
+20872,510.59, ---,Paso Robles
+20872, ---,37.5,Shallow aquifer
+20873,0.23,143.25,Salinas aquitard
+20873,143.25,273.27,180ft aquifer
+20873,273.27,398.28,Middle aquitard
+20873,398.28, ---,400ft aquifer
+20874,95.15,126.91,Salinas aquitard
+20874,126.91,217.28,180ft aquifer
+20874,217.28, ---,Middle aquitard
+20874, ---,95.15,Shallow aquifer
+20879,67.23,172.78,180ft aquifer
+20879,172.78,279.77,Middle aquitard
+20879,279.77,356.73,400ft aquifer
+20879,356.73, ---,Deep aquitard
+20879, ---,67.23,Salinas aquitard
+20880,29.71, ---,Salinas aquitard
+20880,343.1, ---,Deep aquitard
+20880, ---,343.1,400ft aquifer
+20880, ---,29.71,Shallow aquifer
+20881,69.14,112.43,Salinas aquitard
+20881,112.43,181.92,180ft aquifer
+20881,181.92,221.14,Middle aquitard
+20881,221.14,389.26,400ft aquifer
+20881,389.26, ---,Deep aquitard
+20881, ---,69.14,Shallow aquifer
+20882,44.24,88.22,Salinas aquitard
+20882,88.22,230.83,180ft aquifer
+20882,230.83,386.3,Middle aquitard
+20882,386.3,441.92,400ft aquifer
+20882,441.92, ---,Deep aquitard
+20882, ---,44.24,Shallow aquifer
+20883,50.53, ---,Salinas aquitard
+20883, ---,50.53,Shallow aquifer
+20884,40.49,80.89,Salinas aquitard
+20884,80.89,270.51,180ft aquifer
+20884,270.51, ---,Middle aquitard
+20884, ---,40.49,Shallow aquifer
+20885,15.1,125.26,Salinas aquitard
+20885,125.26, ---,180ft aquifer
+20885, ---,15.1,Shallow aquifer
+20886,13.29,127.33,Salinas aquitard
+20886,127.33, ---,180ft aquifer
+20886, ---,13.29,Shallow aquifer
+20889,69.8,124.86,Salinas aquitard
+20889,124.86,171.1,180ft aquifer
+20889,171.1,226.16,Middle aquitard
+20889,226.16, ---,400ft aquifer
+20889, ---,69.8,Shallow aquifer
+20890,92.95,176.39,180ft aquifer
+20890,176.39,289.12,Middle aquitard
+20890,289.12, ---,400ft aquifer
+20890, ---,92.95,Salinas aquitard
+20891,89.9,117.66,Salinas aquitard
+20891,117.66,220,180ft aquifer
+20891,220,269.41,Middle aquitard
+20891,269.41, ---,400ft aquifer
+20891, ---,89.9,Shallow aquifer
+20893,19.1,60.57,Salinas aquitard
+20893,60.57,202.29,180ft aquifer
+20893,202.29,419.34,Middle aquitard
+20893,419.34, ---,400ft aquifer
+20893, ---,19.1,Shallow aquifer
+20894,38.87,165.21,Salinas aquitard
+20894,165.21,286.81,180ft aquifer
+20894,286.81, ---,Middle aquitard
+20894, ---,38.87,Shallow aquifer
+20895,87.93, ---,180ft aquifer
+20895, ---,87.93,Salinas aquitard
+20896,117.26, ---,180ft aquifer
+20896, ---,117.26,Salinas aquitard
+20897,148.93,174.53,180ft aquifer
+20897,174.53,387.85,Middle aquitard
+20897,387.85,471.41,400ft aquifer
+20897,471.41, ---,Deep aquitard
+20897, ---,148.93,Salinas aquitard
+20898,39.17, ---,Salinas aquitard
+20898, ---,39.17,Shallow aquifer
+20900,55.26,146.96,Salinas aquitard
+20900,146.96,200.48,180ft aquifer
+20900,200.48, ---,Middle aquitard
+20900, ---,55.26,Shallow aquifer
+20901,69.75, ---,180ft aquifer
+20901, ---,69.75,Salinas aquitard
+20902,44.45,77.91,Salinas aquitard
+20902,77.91, ---,180ft aquifer
+20902, ---,44.45,Shallow aquifer
+20903,189.99,207.85,Salinas aquitard
+20903,207.85, ---,180ft aquifer
+20903, ---,189.99,Shallow aquifer
+20904,158.77,233.87,Salinas aquitard
+20904,233.87,274.79,180ft aquifer
+20904,274.79,325.99,Middle aquitard
+20904,325.99,379.32,400ft aquifer
+20904,379.32,554.25,Deep aquitard
+20904,554.25, ---,Paso Robles
+20904, ---,158.77,Shallow aquifer
+20933,60.1,105.94,180ft aquifer
+20933,105.94,174.71,Middle aquitard
+20933,174.71, ---,400ft aquifer
+20933, ---,60.1,Salinas aquitard
+21139,56.16,118.25,Salinas aquitard
+21139,118.25,169.82,180ft aquifer
+21139,169.82,437.06,Middle aquitard
+21139,437.06, ---,400ft aquifer
+21139, ---,56.16,Shallow aquifer
+21149,100.01,145.97,180ft aquifer
+21149,145.97,175.45,Middle aquitard
+21149,175.45,340.21,400ft aquifer
+21149,340.21, ---,Deep aquitard
+21149, ---,100.01,Salinas aquitard
+21203,79.1,162.38,180ft aquifer
+21203,162.38,232.91,Middle aquitard
+21203,232.91, ---,400ft aquifer
+21203, ---,79.1,Salinas aquitard
+21204,11.49,85.45,Salinas aquitard
+21204,85.45,216.05,180ft aquifer
+21204,216.05, ---,Middle aquitard
+21204, ---,11.49,Shallow aquifer
+21290,102.64,162.29,Salinas aquitard
+21290,162.29,279.57,180ft aquifer
+21290,279.57,345.54,Middle aquitard
+21290,345.54,436.71,400ft aquifer
+21290,436.71, ---,Deep aquitard
+21290, ---,102.64,Shallow aquifer
+21314,2.35,30.63,180ft aquifer
+21314,30.63,39.47,Middle aquitard
+21314,39.47, ---,400ft aquifer
+21314, ---,2.35,Salinas aquitard
+21328,108.41,130.74,400ft aquifer
+21328,130.74,218.21,Deep aquitard
+21328,218.21, ---,Paso Robles
+21328, ---,108.41,Middle aquitard
+21362,121.73,241.15,Salinas aquitard
+21362,241.15,261.59,180ft aquifer
+21362,261.59,429.12,Middle aquitard
+21362,429.12,559.95,400ft aquifer
+21362,559.95, ---,Deep aquitard
+21398,59.89,155.05,Salinas aquitard
+21398,155.05,278.18,180ft aquifer
+21398,278.18,448.64,Middle aquitard
+21398,448.64, ---,400ft aquifer
+21398, ---,59.89,Shallow aquifer
+21551,10.94,49.24,180ft aquifer
+21551,49.24,348.89,Middle aquitard
+21551,348.89,420.16,400ft aquifer
+21551,420.16, ---,Deep aquitard
+21551, ---,10.94,Salinas aquitard
+21595,130.54,147.21,Salinas aquitard
+21595,147.21,205.02,180ft aquifer
+21595,205.02,252.77,Middle aquitard
+21595,252.77,503.11,400ft aquifer
+21595,503.11, ---,Deep aquitard
+21595, ---,130.54,Shallow aquifer
+21621,19.12,104.36,180ft aquifer
+21621,104.36,377.22,Middle aquitard
+21621,377.22,527.94,400ft aquifer
+21621,527.94, ---,Deep aquitard
+21621, ---,19.12,Salinas aquitard
+21629,9.37,43.43,180ft aquifer
+21629,43.43,121.76,Middle aquitard
+21629,121.76,243.23,400ft aquifer
+21629,243.23,539.5,Deep aquitard
+21629,539.5, ---,Paso Robles
+21629, ---,9.37,Salinas aquitard
+21632,62.96,312.97,180ft aquifer
+21632,312.97,357.96,Middle aquitard
+21632,357.96, ---,400ft aquifer
+21667,33.41,85.97,Salinas aquitard
+21667,85.97, ---,180ft aquifer
+21667, ---,33.41,Shallow aquifer
+21670,72.56,130.66,180ft aquifer
+21670,130.66,230.91,Middle aquitard
+21670,230.91,473.56,400ft aquifer
+21670,473.56, ---,Deep aquitard
+21670, ---,72.56,Salinas aquitard
+21676,117.06,145.57,Salinas aquitard
+21676,145.57,377.23,180ft aquifer
+21676,377.23,451.99,Middle aquitard
+21676,451.99, ---,400ft aquifer
+21676, ---,117.06,Shallow aquifer
+21738,10.04,120.2,180ft aquifer
+21738,120.2,167.67,Middle aquitard
+21738,167.67, ---,400ft aquifer
+21738,673.95, ---,Paso Robles
+21738, ---,673.95,Deep aquitard
+21738, ---,10.04,Salinas aquitard
+21836,53.18, ---,Salinas aquitard
+21836, ---,53.18,Shallow aquifer
+21839,125.34,209.39,Salinas aquitard
+21839,209.39, ---,180ft aquifer
+21839, ---,125.34,Shallow aquifer
+21868,83.55,146.01,Salinas aquitard
+21868,146.01, ---,180ft aquifer
+21868, ---,83.55,Shallow aquifer
+21884,43.92,121.71,Salinas aquitard
+21884,121.71,217.79,180ft aquifer
+21884,217.79, ---,Middle aquitard
+21884, ---,43.92,Shallow aquifer
+21885,143.91,190.73,Salinas aquitard
+21885,190.73,243.05,180ft aquifer
+21885,243.05, ---,Middle aquitard
+21885, ---,143.91,Shallow aquifer
+21887,153.84,205.7,180ft aquifer
+21887,205.7, ---,Middle aquitard
+21887, ---,153.84,Salinas aquitard
+21888,43.58,137.61,Salinas aquitard
+21888,137.61, ---,180ft aquifer
+21888, ---,43.58,Shallow aquifer
+21889,90.39,162.05,Salinas aquitard
+21889,162.05, ---,180ft aquifer
+21889, ---,90.39,Shallow aquifer
+22254,103.15,210.88,400ft aquifer
+22254,210.88, ---,Deep aquitard
+22254, ---,103.15,Middle aquitard
+22526,102.61,147.08,Salinas aquitard
+22526,147.08,181.58,180ft aquifer
+22526,181.58,255.63,Middle aquitard
+22526,255.63,334.72,400ft aquifer
+22526,334.72, ---,Deep aquitard
+22526, ---,102.61,Shallow aquifer
+22608,102.04, ---,180ft aquifer
+22608,411.83,627.87,400ft aquifer
+22608,627.87, ---,Deep aquitard
+22608, ---,411.83,Middle aquitard
+22608, ---,102.04,Salinas aquitard
+22609,30.61,59.22,Shallow aquifer
+22609,59.22,102.04,Salinas aquitard
+22609,102.04,233.51,180ft aquifer
+22609,233.51,334.73,Middle aquitard
+22609,334.73,609.78,400ft aquifer
+22609,609.78, ---,Deep aquitard
+22611,154.7,242.93,180ft aquifer
+22611,242.93,379.81,Middle aquitard
+22611,379.81,491.15,400ft aquifer
+22611,491.15, ---,Deep aquitard
+22611, ---,154.7,Salinas aquitard
+22615,0,104.04,Shallow aquifer
+22615,104.04,134.06,Salinas aquitard
+22615,134.06,179.04,180ft aquifer
+22615,179.04,304.05,Middle aquitard
+22615,304.05,364.06,400ft aquifer
+22615,364.06,434.08,Deep aquitard
+22615,434.08, ---,Paso Robles
+22616,19.51,73.89,Salinas aquitard
+22616,73.89,232.65,180ft aquifer
+22616,232.65,315.93,Middle aquitard
+22616,315.93, ---,400ft aquifer
+22616, ---,19.51,Shallow aquifer
+22624,83.14,195.8,180ft aquifer
+22624,195.8,251.45,Middle aquitard
+22624,251.45,365.62,400ft aquifer
+22624,365.62, ---,Deep aquitard
+22626,13.48,78.92,180ft aquifer
+22626,78.92,110.62,Middle aquitard
+22626,110.62,186.28,400ft aquifer
+22626,186.28, ---,Deep aquitard
+22626, ---,13.48,Salinas aquitard
+22634,83.2, ---,Salinas aquitard
+22634, ---,83.2,Shallow aquifer
+22637,48.8,107.8,180ft aquifer
+22637,107.8,130.28,Middle aquitard
+22637,130.28,276.37,400ft aquifer
+22637,276.37, ---,Deep aquitard
+22637, ---,48.8,Salinas aquitard
+22643,95.02,144.1,Salinas aquitard
+22643,144.1,202.9,180ft aquifer
+22643,202.9,277.8,Middle aquitard
+22643,277.8, ---,400ft aquifer
+22643, ---,95.02,Shallow aquifer
+22647,104.63,172.71,Salinas aquitard
+22647,172.71,302.61,180ft aquifer
+22647,302.61,377.02,Middle aquitard
+22647,377.02,468.99,400ft aquifer
+22647,468.99, ---,Deep aquitard
+22647, ---,104.63,Shallow aquifer
+22648,187.5,360.35,180ft aquifer
+22648,360.35,474.83,Middle aquitard
+22648,474.83, ---,400ft aquifer
+22648, ---,187.5,Salinas aquitard
+22651,59.27,127.82,Salinas aquitard
+22651,127.82,197.28,180ft aquifer
+22651,238.51, ---,400ft aquifer
+22651, ---,238.51,Middle aquitard
+22651, ---,59.27,Shallow aquifer
+22652,19.12,130.19,180ft aquifer
+22652,130.19,295.48,Middle aquitard
+22652,295.48,496.94,400ft aquifer
+22652,496.94, ---,Deep aquitard
+22652, ---,19.12,Salinas aquitard
+22656,63.09,149.87,Salinas aquitard
+22656,149.87,219.97,180ft aquifer
+22656,219.97,374.85,Middle aquitard
+22656,374.85,473.25,400ft aquifer
+22656,473.25, ---,Deep aquitard
+22656, ---,63.09,Shallow aquifer
+22666,117.49,220.11,180ft aquifer
+22666,220.11,362.42,Middle aquitard
+22666,362.42,497.69,400ft aquifer
+22666,497.69,606.26,Deep aquitard
+22666,606.26, ---,Paso Robles
+22666, ---,117.49,Salinas aquitard
+22667,75.66,147.75,Salinas aquitard
+22667,147.75,304.79,180ft aquifer
+22667,304.79, ---,Middle aquitard
+22667, ---,75.66,Shallow aquifer
+22669,102.46,153.07,Salinas aquitard
+22669,153.07,294.52,180ft aquifer
+22669,294.52,346.63,Middle aquitard
+22669,346.63,506.69,400ft aquifer
+22669,506.69, ---,Deep aquitard
+22669, ---,102.46,Shallow aquifer
+22670,83.99,93.51,Shallow aquifer
+22670,93.51,127.6,Salinas aquitard
+22670,127.6,220.91,180ft aquifer
+22670,220.91,283.49,Middle aquitard
+22670,283.49,458.24,400ft aquifer
+22670,458.24, ---,Deep aquitard
+22681,89.22,153.54,Salinas aquitard
+22681,153.54,308.64,180ft aquifer
+22681,308.64,411.26,Middle aquitard
+22681,411.26,657.53,400ft aquifer
+22681,657.53, ---,Deep aquitard
+22681, ---,89.22,Shallow aquifer
+22682,58.06,147.35,180ft aquifer
+22682,147.35,222.43,Middle aquitard
+22682,222.43,350.26,400ft aquifer
+22682,350.26, ---,Deep aquitard
+22682, ---,58.06,Salinas aquitard
+22683,357.41,525.8,180ft aquifer
+22683,525.8, ---,Middle aquitard
+22683, ---,357.41,Salinas aquitard
+22685,63.63, ---,Salinas aquitard
+22685, ---,63.63,Shallow aquifer
+22686,42.13, ---,Salinas aquitard
+22686,365.77,491.23,400ft aquifer
+22686,491.23, ---,Deep aquitard
+22686, ---,365.77,Middle aquitard
+22686, ---,42.13,Shallow aquifer
+22705,11.18,46.54,180ft aquifer
+22705,46.54,73.06,Middle aquitard
+22705,73.06, ---,400ft aquifer
+22705, ---,11.18,Salinas aquitard
+22748,165.1,356.63,180ft aquifer
+22748,356.63,378.45,Middle aquitard
+22748,378.45,414.82,400ft aquifer
+22748,414.82,662.11,Deep aquitard
+22748,662.11, ---,Paso Robles
+22748, ---,165.1,Salinas aquitard
+22755,21.59,60.89,Salinas aquitard
+22755,60.89,267.33,180ft aquifer
+22755,267.33,299.64,Middle aquitard
+22755,299.64,513.27,400ft aquifer
+22755,513.27, ---,Deep aquitard
+22755, ---,21.59,Shallow aquifer
+22756,83.44,171.47,180ft aquifer
+22756,171.47,249.61,Middle aquitard
+22756,249.61,355.25,400ft aquifer
+22756,355.25, ---,Deep aquitard
+22756, ---,83.44,Salinas aquitard
+22757,23.78,139.05,180ft aquifer
+22757,139.05,156.74,Middle aquitard
+22757,156.74,260.35,400ft aquifer
+22757,260.35, ---,Deep aquitard
+22757, ---,23.78,Salinas aquitard
+22760,48,77.85,Salinas aquitard
+22760,77.85,275.96,180ft aquifer
+22760,275.96,341.85,Middle aquitard
+22760,341.85,450.07,400ft aquifer
+22760,450.07,488.2,Deep aquitard
+22760,488.2, ---,Paso Robles
+22760, ---,48,Shallow aquifer
+22761,142.68,164.37,180ft aquifer
+22761,164.37,496.94,Middle aquitard
+22761,496.94,553.77,400ft aquifer
+22761,553.77,737.93,Deep aquitard
+22761,737.93, ---,Paso Robles
+22761, ---,142.68,Salinas aquitard
+22763,41.56, ---,Salinas aquitard
+22763, ---,41.56,Shallow aquifer
+22768,205.25,297.23,180ft aquifer
+22768,297.23,403.73,Middle aquitard
+22768,403.73,568.32,400ft aquifer
+22768,568.32, ---,Deep aquitard
+22768, ---,205.25,Salinas aquitard
+22770,56.73,141.02,180ft aquifer
+22770,141.02,177.8,Middle aquitard
+22770,177.8,295.55,400ft aquifer
+22770,295.55, ---,Deep aquitard
+22770, ---,56.73,Salinas aquitard
+22801,44.49,167.11,Salinas aquitard
+22801,167.11,219.91,180ft aquifer
+22801,219.91,316.06,Middle aquitard
+22801,316.06,436.8,400ft aquifer
+22801,436.8, ---,Deep aquitard
+22801, ---,44.49,Shallow aquifer
+22805,50.39,126.94,Salinas aquitard
+22805,126.94,327.54,180ft aquifer
+22805,327.54,480.58,Middle aquitard
+22805,432.72, ---,Deep aquitard
+22805,480.58,432.72,400ft aquifer
+22805, ---,50.39,Shallow aquifer
+22828,72.92,104.67,Salinas aquitard
+22828,104.67,294.35,180ft aquifer
+22828,294.35,465.58,Middle aquitard
+22828,465.58,595.93,400ft aquifer
+22828,595.93, ---,Deep aquitard
+22828, ---,72.92,Shallow aquifer
+22834,37.24,105.59,180ft aquifer
+22834,105.59,283.31,Middle aquitard
+22834,283.31,557.86,400ft aquifer
+22834,557.86,650.2,Deep aquitard
+22834,650.2, ---,Paso Robles
+22834, ---,37.24,Salinas aquitard
+22875,26.63,69.98,180ft aquifer
+22875,69.98,94.73,Middle aquitard
+22875,94.73,232.5,400ft aquifer
+22875,232.5,561.06,Deep aquitard
+22875,561.06, ---,Paso Robles
+22875, ---,26.63,Salinas aquitard
+22896,53.48,82.09,Shallow aquifer
+22896,82.09,162.15,Salinas aquitard
+22896,162.15,193.58,180ft aquifer
+22896,193.58,486.74,Middle aquitard
+22896,486.74,585.43,400ft aquifer
+22896,585.43, ---,Deep aquitard
+22898,21.71,91.44,180ft aquifer
+22898,91.44,384.31,Middle aquitard
+22898,384.31,563.42,400ft aquifer
+22898,563.42,677.68,Deep aquitard
+22898,677.68, ---,Paso Robles
+22898, ---,21.71,Salinas aquitard
+22900,123.41,168.69,180ft aquifer
+22900,168.69,230.79,Middle aquitard
+22900,230.79,308.41,400ft aquifer
+22900,308.41,598.19,Deep aquitard
+22900,598.19, ---,Paso Robles
+22900, ---,123.41,Salinas aquitard
+22901,57.56,139.23,180ft aquifer
+22901,139.23,168.72,Middle aquitard
+22901,168.72,280.37,400ft aquifer
+22901,280.37, ---,Deep aquitard
+22903,127.31,201.86,Salinas aquitard
+22903,201.86, ---,180ft aquifer
+22903, ---,127.31,Shallow aquifer
+22905,80.09,176.37,180ft aquifer
+22905,176.37,318.95,Middle aquitard
+22905,318.95,533.86,400ft aquifer
+22905,533.86,616.3,Deep aquitard
+22905,616.3, ---,Paso Robles
+22905, ---,80.09,Salinas aquitard
+22906,72.83,147.48,180ft aquifer
+22906,147.48,168.95,Middle aquitard
+22906,168.95,229.28,400ft aquifer
+22906,229.28, ---,Deep aquitard
+22906, ---,72.83,Salinas aquitard
+22907,95.95,236.49,180ft aquifer
+22907,236.49,269.07,Middle aquitard
+22907,269.07,309.81,400ft aquifer
+22907,309.81, ---,Deep aquitard
+22907, ---,95.95,Salinas aquitard
+22917,56.17,125.86,Salinas aquitard
+22917,125.86,225.24,180ft aquifer
+22917,225.24,342.13,Middle aquitard
+22917,342.13,417.7,400ft aquifer
+22917,417.7,529.26,Deep aquitard
+22917,529.26, ---,Paso Robles
+22917, ---,56.17,Shallow aquifer
+22918,40.3,62.09,Salinas aquitard
+22918,62.09, ---,180ft aquifer
+22918, ---,40.3,Shallow aquifer
+22920,146.76,167.54,Salinas aquitard
+22920,167.54,314.93,180ft aquifer
+22920,314.93,439.39,Middle aquitard
+22920,439.39,696.85,400ft aquifer
+22920,696.85,837.37,Deep aquitard
+22920,837.37, ---,Paso Robles
+22920, ---,146.76,Shallow aquifer
+22926,519.71, ---,Paso Robles
+22926, ---,519.71,Deep aquitard
+22930,103.66,179.4,180ft aquifer
+22930,179.4, ---,Middle aquitard
+22930, ---,103.66,Salinas aquitard
+22939,26.75,90.19,Salinas aquitard
+22939,90.19, ---,180ft aquifer
+22939, ---,26.75,Shallow aquifer
+22940,65.77,158.11,180ft aquifer
+22940,158.11,170.69,Middle aquitard
+22940,170.69, ---,400ft aquifer
+22940, ---,65.77,Salinas aquitard
+22948,19.48,66.16,180ft aquifer
+22948,66.16,90.2,Middle aquitard
+22948,90.2, ---,400ft aquifer
+22948, ---,19.48,Salinas aquitard
+22952,140.01,223.03,Salinas aquitard
+22952,223.03,350.53,180ft aquifer
+22952,350.53,409.83,Middle aquitard
+22952,409.83, ---,400ft aquifer
+22952, ---,140.01,Shallow aquifer
+22953,124.35,238.67,Salinas aquitard
+22953,238.67,296.52,180ft aquifer
+22953,296.52,368.84,Middle aquitard
+22953,368.84,439.23,400ft aquifer
+22953,439.23, ---,Deep aquitard
+22953, ---,124.35,Shallow aquifer
+22963,64.44,83.98,Salinas aquitard
+22963,83.98,205.46,180ft aquifer
+22963,205.46,306.48,Middle aquitard
+22963,306.48,474.63,400ft aquifer
+22963,474.63,861.36,Deep aquitard
+22963,861.36, ---,Paso Robles
+22963, ---,64.44,Shallow aquifer
+22964,86.56,149.68,Salinas aquitard
+22964,149.68,178.05,180ft aquifer
+22964,178.05, ---,Middle aquitard
+22964, ---,86.56,Shallow aquifer
+22967,90.72,336.53,180ft aquifer
+22967,336.53,460.98,Middle aquitard
+22967,460.98,592.94,400ft aquifer
+22967,592.94, ---,Deep aquitard
+22967, ---,90.72,Salinas aquitard
+22973,69.86,247.91,180ft aquifer
+22973,247.91, ---,Middle aquitard
+22973, ---,69.86,Salinas aquitard
+22977,35.21,68.33,Salinas aquitard
+22977,68.33,118.85,180ft aquifer
+22977,118.85,208.47,Middle aquitard
+22977,208.47,311.13,400ft aquifer
+22977,311.13,594.73,Deep aquitard
+22977,594.73, ---,Paso Robles
+22977, ---,35.21,Shallow aquifer
+22981,208.62,257.64,180ft aquifer
+22981,257.64,404.25,Middle aquitard
+22981,404.25, ---,400ft aquifer
+22981, ---,208.62,Salinas aquitard
+22988,274.06,356.35,Middle aquitard
+22988,356.35,481.14,400ft aquifer
+22988,481.14, ---,Deep aquitard
+22988, ---,274.06,180ft aquifer
+22989,4.81,26.76,180ft aquifer
+22989,26.76,57.49,Middle aquitard
+22989,57.49, ---,400ft aquifer
+22989, ---,4.81,Salinas aquitard
+22990,99.83,122.57,Salinas aquitard
+22990,122.57,300.87,180ft aquifer
+22990,300.87,344.11,Middle aquitard
+22990,344.11,402.87,400ft aquifer
+22990,402.87, ---,Deep aquitard
+22990, ---,99.83,Shallow aquifer
+22996,159.48,298.26,180ft aquifer
+22996,298.26,403.14,Middle aquitard
+22996,403.14,608.07,400ft aquifer
+22996,608.07, ---,Deep aquitard
+22996, ---,159.48,Salinas aquitard
+22997,101.86,472.94,Salinas aquitard
+22997,274.51,282.58,Middle aquitard
+22997,282.58,381.01,400ft aquifer
+22997,381.01,472.94,Deep aquitard
+22997,472.94,274.51,180ft aquifer
+22997,472.94, ---,Paso Robles
+22997, ---,101.86,Shallow aquifer
+23000,103.29,205.75,180ft aquifer
+23000,205.75,300.09,Middle aquitard
+23000,300.09,418.7,400ft aquifer
+23000,418.7, ---,Deep aquitard
+23000, ---,103.29,Salinas aquitard
+23002,88.1,197.65,Salinas aquitard
+23002,197.65,388.2,180ft aquifer
+23002,388.2,549.15,Middle aquitard
+23002,549.15, ---,400ft aquifer
+23002, ---,88.1,Shallow aquifer
+23004,93.28,113.36,Salinas aquitard
+23004,113.36,309.23,180ft aquifer
+23004,309.23,476.7,Middle aquitard
+23004,476.7, ---,400ft aquifer
+23004, ---,93.28,Shallow aquifer
+23006,50.16,78.15,Salinas aquitard
+23006,78.15,260.28,180ft aquifer
+23006,260.28,409.08,Middle aquitard
+23006,409.08,596.81,400ft aquifer
+23006,596.81, ---,Deep aquitard
+23006, ---,50.16,Shallow aquifer
+23015,97.62,180.82,Salinas aquitard
+23015,180.82,324.52,180ft aquifer
+23015,324.52,427.88,Middle aquitard
+23015,427.88,583.12,400ft aquifer
+23015,583.12,757.28,Deep aquitard
+23015,757.28, ---,Paso Robles
+23015, ---,97.62,Shallow aquifer
+23018,117.82,185.8,180ft aquifer
+23018,185.8,263.7,Middle aquitard
+23018,263.7,428.75,400ft aquifer
+23018,428.75,531.79,Deep aquitard
+23018,531.79, ---,Paso Robles
+23018, ---,117.82,Salinas aquitard
+23019,57.52,104.35,180ft aquifer
+23019,104.35,219.68,Middle aquitard
+23019,219.68, ---,400ft aquifer
+23019, ---,57.52,Salinas aquitard
+23020,56.1,479.99,Salinas aquitard
+23020,257.67,288.97,Middle aquitard
+23020,288.97,403.72,400ft aquifer
+23020,403.72,479.99,Deep aquitard
+23020,479.99,257.67,180ft aquifer
+23020,479.99, ---,Paso Robles
+23020, ---,56.1,Shallow aquifer
+23027,208.34,344.54,180ft aquifer
+23027,344.54,440.69,Middle aquitard
+23027,440.69, ---,400ft aquifer
+23027, ---,208.34,Salinas aquitard
+23030,107.54,169.3,Salinas aquitard
+23030,169.3,313.39,180ft aquifer
+23030,313.39,368.28,Middle aquitard
+23030,368.28,543.25,400ft aquifer
+23030,543.25, ---,Deep aquitard
+23030, ---,107.54,Shallow aquifer
+23031,73.05,143.77,180ft aquifer
+23031,143.77,220.07,Middle aquitard
+23031,220.07,268.46,400ft aquifer
+23031,268.46, ---,Deep aquitard
+23031, ---,73.05,Salinas aquitard
+23032,8.13,79.43,Salinas aquitard
+23032,79.43,192,180ft aquifer
+23032,192, ---,Middle aquitard
+23032,304.9, ---,400ft aquifer
+23033,151.75, ---,400ft aquifer
+23033, ---,151.75,Middle aquitard
+23070,31.18,69.54,Salinas aquitard
+23070,69.54, ---,180ft aquifer
+23070, ---,31.18,Shallow aquifer
+23072,17.63,135.56,180ft aquifer
+23072,135.56,179.79,Middle aquitard
+23072,179.79,301.19,400ft aquifer
+23072,301.19, ---,Deep aquitard
+23072, ---,17.63,Salinas aquitard
+23089,53.1,87.2,180ft aquifer
+23089,87.2,133.16,Middle aquitard
+23089,133.16,332.93,400ft aquifer
+23089,332.93, ---,Deep aquitard
+23089, ---,53.1,Salinas aquitard
+23092,105.13,327.52,Middle aquitard
+23092,327.52,439.16,400ft aquifer
+23092,439.16, ---,Deep aquitard
+23092, ---,105.13,180ft aquifer
+23095,101.21,228.54,Middle aquitard
+23095,228.54,318.64,400ft aquifer
+23095,318.64,565.62,Deep aquitard
+23095,565.62, ---,Paso Robles
+23095, ---,101.21,180ft aquifer
+23099,42.25,153.01,180ft aquifer
+23099,153.01,200.61,Middle aquitard
+23099,200.61,349.81,400ft aquifer
+23099,349.81, ---,Deep aquitard
+23099, ---,42.25,Salinas aquitard
+23107,106.64,192.64,Salinas aquitard
+23107,192.64,322.84,180ft aquifer
+23107,322.84,444.15,Middle aquitard
+23107,444.15,604.5,400ft aquifer
+23107,604.5, ---,Deep aquitard
+23107, ---,106.64,Shallow aquifer
+23108,23.42,73.3,Salinas aquitard
+23108,73.3, ---,180ft aquifer
+23108, ---,23.42,Shallow aquifer
+23109,131.85,226.71,Salinas aquitard
+23109,226.71,339.35,180ft aquifer
+23109,339.35,392.71,Middle aquitard
+23109,392.71,460.89,400ft aquifer
+23109,460.89, ---,Deep aquitard
+23109, ---,131.85,Shallow aquifer
+23110,29.74,137.29,180ft aquifer
+23110,137.29,389.61,Middle aquitard
+23110,389.61,448.51,400ft aquifer
+23110,448.51,710.6,Deep aquitard
+23110,710.6, ---,Paso Robles
+23110, ---,29.74,Salinas aquitard
+23120,40.21,159.56,Salinas aquitard
+23120,159.56,241.28,180ft aquifer
+23120,241.28,361.07,Middle aquitard
+23120,361.07,519.69,400ft aquifer
+23120,519.69, ---,Deep aquitard
+23122,122.48,193.56,180ft aquifer
+23122,193.56,326.46,Middle aquitard
+23122,326.46,472.82,400ft aquifer
+23122,472.82, ---,Deep aquitard
+23122, ---,122.48,Salinas aquitard
+23123,106.55,143.77,400ft aquifer
+23123,143.77,305.68,Deep aquitard
+23123,305.68, ---,Paso Robles
+23123, ---,106.55,Middle aquitard
+23134,97.33,140.93,Salinas aquitard
+23134,140.93,346.13,180ft aquifer
+23134,346.13,478.32,Middle aquitard
+23134,478.32, ---,400ft aquifer
+23134, ---,97.33,Shallow aquifer
+23140,76.76,230.67,400ft aquifer
+23140,230.67, ---,Deep aquitard
+23140, ---,76.76,Middle aquitard
+23154,78.31,144.33,180ft aquifer
+23154,144.33,153.77,Middle aquitard
+23154,153.77, ---,400ft aquifer
+23154, ---,78.31,Salinas aquitard
+23157,322.33,495.1,400ft aquifer
+23157,495.1, ---,Deep aquitard
+23157, ---,322.33,Middle aquitard
+23158,10.8,108.28,Salinas aquitard
+23158,108.28,189.17,180ft aquifer
+23158,189.17,368.85,Middle aquitard
+23158,368.85,470.5,400ft aquifer
+23158,470.5, ---,Deep aquitard
+23158, ---,10.8,Shallow aquifer
+23163,8.98,224.52,180ft aquifer
+23163,224.52,264.61,Middle aquitard
+23163,264.61,489.47,400ft aquifer
+23163,489.47, ---,Deep aquitard
+23163, ---,8.98,Salinas aquitard
+23172,44.81,124.71,Salinas aquitard
+23172,124.71,270.12,180ft aquifer
+23172,270.12,292.61,Middle aquitard
+23172,292.61,388.15,400ft aquifer
+23172,388.15, ---,Deep aquitard
+23172, ---,44.81,Shallow aquifer
+23173,62.28,71.29,Salinas aquitard
+23173,71.29,159.78,180ft aquifer
+23173,159.78,237.86,Middle aquitard
+23173,237.86,404.42,400ft aquifer
+23173,404.42,652.59,Deep aquitard
+23173,652.59, ---,Paso Robles
+23173, ---,62.28,Shallow aquifer
+23174,57.23,186.73,180ft aquifer
+23174,186.73,345.54,Middle aquitard
+23174,345.54, ---,400ft aquifer
+23174, ---,57.23,Salinas aquitard
+23181,251.36,364.13,180ft aquifer
+23181,364.13,408.64,Middle aquitard
+23181,408.64,551.09,400ft aquifer
+23181,551.09, ---,Deep aquitard
+23181, ---,251.36,Salinas aquitard
+23183,45.28,73.08,180ft aquifer
+23183,73.08, ---,Middle aquitard
+23183, ---,45.28,Salinas aquitard
+23190,80.46,112.54,180ft aquifer
+23190,112.54,145.51,Middle aquitard
+23190,145.51, ---,400ft aquifer
+23190,483.49, ---,Paso Robles
+23190, ---,483.49,Deep aquitard
+23190, ---,80.46,Salinas aquitard
+23193,51.71,91.7,Salinas aquitard
+23193,91.7,296.73,180ft aquifer
+23193,296.73, ---,Middle aquitard
+23193, ---, ---,400ft aquifer
+23193, ---, ---,Deep aquitard
+23193, ---, ---,Paso Robles
+23193, ---, ---,Shallow aquifer
+23196,91.24,108.84,Salinas aquitard
+23196,108.84,197.65,180ft aquifer
+23196,197.65,298.8,Middle aquitard
+23196,298.8,373.4,400ft aquifer
+23196,373.4, ---,Deep aquitard
+23196, ---,91.24,Shallow aquifer
+23214,53.7,132.78,Salinas aquitard
+23214,132.78,192.79,180ft aquifer
+23214,192.79,327.35,Middle aquitard
+23214,327.35,590.97,400ft aquifer
+23214,590.97, ---,Deep aquitard
+23214, ---,53.7,Shallow aquifer
+23229,65.89,145.83,180ft aquifer
+23229,145.83,230.76,Middle aquitard
+23229,230.76,312.37,400ft aquifer
+23229,312.37,512.21,Deep aquitard
+23229,512.21, ---,Paso Robles
+23229, ---,65.89,Salinas aquitard
+23243,73.72,304.15,Salinas aquitard
+23243,304.15,412.78,180ft aquifer
+23243,412.78,481.91,Middle aquitard
+23243,481.91, ---,400ft aquifer
+23243, ---,73.72,Shallow aquifer
+23248,90.75,140.18,180ft aquifer
+23248,140.18, ---,Middle aquitard
+23248, ---,90.75,Salinas aquitard
+23251,71.21,152.69,180ft aquifer
+23251,152.69,229.95,Middle aquitard
+23251,229.95,472.8,400ft aquifer
+23251,472.8,768.13,Deep aquitard
+23251,768.13, ---,Paso Robles
+23251, ---,71.21,Salinas aquitard
+23252,91.13,247.96,180ft aquifer
+23252,247.96,266.29,Middle aquitard
+23252,266.29,372.2,400ft aquifer
+23252,372.2,787.7,Deep aquitard
+23252,787.7, ---,Paso Robles
+23252, ---,91.13,Salinas aquitard
+23275,119.67, ---,400ft aquifer
+23275, ---,119.67,Middle aquitard
+23282,57,119.68,Salinas aquitard
+23282,119.68,273.61,180ft aquifer
+23282,273.61,346.63,Middle aquitard
+23282,346.63,427.55,400ft aquifer
+23282,427.55,538.07,Deep aquitard
+23282,538.07, ---,Paso Robles
+23282, ---,57,Shallow aquifer
+23283,45.96,116.95,Salinas aquitard
+23283,116.95, ---,180ft aquifer
+23283, ---,45.96,Shallow aquifer
+23285,389.03, ---,400ft aquifer
+23285, ---,389.03,Middle aquitard
+23291,139.48, ---,180ft aquifer
+23291,365.95,488.77,400ft aquifer
+23291,488.77, ---,Deep aquitard
+23291, ---,365.95,Middle aquitard
+23291, ---,139.48,Salinas aquitard
+23304,127.28,181.58,180ft aquifer
+23304,181.58, ---,Middle aquitard
+23304, ---,127.28,Salinas aquitard
+23308,85.4, ---,Salinas aquitard
+23308, ---,85.4,Shallow aquifer
+23319,70.27,121.15,Salinas aquitard
+23319,121.15,241.07,180ft aquifer
+23319,241.07,271.96,Middle aquitard
+23319,271.96, ---,400ft aquifer
+23319, ---,70.27,Shallow aquifer
+23359,43.56,161.1,Salinas aquitard
+23359,161.1,200.28,180ft aquifer
+23359,200.28,460.29,Middle aquitard
+23359,460.29,576.62,400ft aquifer
+23359,576.62, ---,Deep aquitard
+23359, ---,43.56,Shallow aquifer
+23409,97.78,226.16,Salinas aquitard
+23409,226.16,400.63,180ft aquifer
+23409,400.63,456.59,Middle aquitard
+23409,456.59, ---,400ft aquifer
+23409, ---,97.78,Shallow aquifer
+23412,113.23,195.45,180ft aquifer
+23412,195.45,305.07,Middle aquitard
+23412,305.07,429.59,400ft aquifer
+23412,429.59, ---,Deep aquitard
+23412, ---,113.23,Salinas aquitard
+23414,65.25,140.82,180ft aquifer
+23414,140.82,377.49,Middle aquitard
+23414,377.49,429.52,400ft aquifer
+23414,429.52, ---,Deep aquitard
+23414, ---,65.25,Salinas aquitard
+23419,69.32,78.63,Middle aquitard
+23419,78.63,205.65,400ft aquifer
+23419,205.65, ---,Deep aquitard
+23419, ---,69.32,180ft aquifer
+23422,196.28,220.81,180ft aquifer
+23422,220.81,299.31,Middle aquitard
+23422,299.31,475.92,400ft aquifer
+23422,475.92,549.51,Deep aquitard
+23422,549.51, ---,Paso Robles
+23422, ---,196.28,Salinas aquitard
+23423,0.56,38.58,Shallow aquifer
+23423,38.58,106.52,Salinas aquitard
+23423,106.52,155.86,180ft aquifer
+23423,155.86,285.45,Middle aquitard
+23423,285.45,375.92,400ft aquifer
+23423,375.92,652.28,Deep aquitard
+23423,652.28, ---,Paso Robles
+23427,63.57, ---,180ft aquifer
+23427,135.42, ---,400ft aquifer
+23427, ---,135.42,Middle aquitard
+23427, ---,63.57,Salinas aquitard
+23431,143.28,196.62,180ft aquifer
+23431,196.62,397.85,Middle aquitard
+23431,397.85, ---,400ft aquifer
+23431, ---,143.28,Salinas aquitard
+23434,128.09,245.37,180ft aquifer
+23434,245.37,277.13,Middle aquitard
+23434,277.13, ---,400ft aquifer
+23434, ---,128.09,Salinas aquitard
+23440,63.7,137.29,180ft aquifer
+23440,137.29,328.35,Middle aquitard
+23440,328.35,415.53,400ft aquifer
+23440,415.53, ---,Deep aquitard
+23440, ---,63.7,Salinas aquitard
+23480,200.82,244.36,Salinas aquitard
+23480,244.36,327.07,180ft aquifer
+23480,327.07,418.49,Middle aquitard
+23480,418.49,596.52,400ft aquifer
+23480,596.52, ---,Deep aquitard
+23480, ---,200.82,Shallow aquifer
+23484,34.6,147.71,Salinas aquitard
+23484,147.71,279.76,180ft aquifer
+23484,279.76,371.98,Middle aquitard
+23484,371.98, ---,400ft aquifer
+23484, ---,34.6,Shallow aquifer
+23485,135.72,175.63,Salinas aquitard
+23485,175.63,266.22,180ft aquifer
+23485,266.22,388.7,Middle aquitard
+23485,388.7,499.98,400ft aquifer
+23485,499.98, ---,Deep aquitard
+23485, ---,135.72,Shallow aquifer
+23486,83.26,127.91,Salinas aquitard
+23486,127.91, ---,180ft aquifer
+23486, ---,83.26,Shallow aquifer
+23524,58.81, ---,Salinas aquitard
+23524, ---,58.81,Shallow aquifer
+23545,164.71,191.74,180ft aquifer
+23545,191.74,344.2,Middle aquitard
+23545,344.2, ---,400ft aquifer
+23545, ---,164.71,Salinas aquitard
+23551,176.63,223.75,Salinas aquitard
+23551,223.75,335.24,180ft aquifer
+23551,335.24,475.58,Middle aquitard
+23551,475.58, ---,400ft aquifer
+23551, ---,176.63,Shallow aquifer
+23607,93.82,130.36,180ft aquifer
+23607,130.36,166.01,Middle aquitard
+23607,166.01, ---,400ft aquifer
+23607, ---,93.82,Salinas aquitard
+23654,18.3,79.09,Salinas aquitard
+23654,79.09,186.43,180ft aquifer
+23654,186.43,313.31,Middle aquitard
+23654,313.31, ---,400ft aquifer
+23654, ---,18.3,Shallow aquifer
+23657,95.36,188.3,Salinas aquitard
+23657,188.3, ---,180ft aquifer
+23657,431.75,675.26,400ft aquifer
+23657,675.26,756.43,Deep aquitard
+23657,756.43, ---,Paso Robles
+23657, ---,431.75,Middle aquitard
+23657, ---,95.36,Shallow aquifer
+23814,136.78,217.22,Salinas aquitard
+23814, ---,136.78,Shallow aquifer
+23815,43.74,163.66,180ft aquifer
+23815,163.66, ---,Middle aquitard
+23815, ---,43.74,Salinas aquitard
+23819,17.59,42.37,Salinas aquitard
+23819,42.37, ---,180ft aquifer
+23819, ---,17.59,Shallow aquifer
+23821,40.34,118.92,Salinas aquitard
+23821,118.92, ---,180ft aquifer
+23821, ---,40.34,Shallow aquifer
+23823,26.82,98.04,Salinas aquitard
+23823,98.04,127.72,180ft aquifer
+23823,127.72, ---,Middle aquitard
+23823, ---,26.82,Shallow aquifer
+23825,29.42,121.51,Salinas aquitard
+23825,121.51, ---,180ft aquifer
+23825, ---,29.42,Shallow aquifer
+23826,80.24,130.35,Salinas aquitard
+23826,130.35, ---,180ft aquifer
+23826, ---,80.24,Shallow aquifer
+23827,77.15,143.2,Salinas aquitard
+23827,143.2, ---,180ft aquifer
+23827, ---,77.15,Shallow aquifer
+23829,52.96,140.23,Salinas aquitard
+23829,140.23,245.78,180ft aquifer
+23829,245.78, ---,Middle aquitard
+23829, ---,52.96,Shallow aquifer
+23834,27.1,40.95,Shallow aquifer
+23834,40.95, ---,Salinas aquitard
+23846,42.65,53.47,Shallow aquifer
+23846,53.47, ---,Salinas aquitard
+23870,253.27,458.86,400ft aquifer
+23870,458.86, ---,Deep aquitard
+23870, ---,253.27,Middle aquitard
+23890,119.84,167.88,400ft aquifer
+23890,167.88,507.9,Deep aquitard
+23890,507.9, ---,Paso Robles
+23890, ---,119.84,Middle aquitard
+23896,27.46,145.06,180ft aquifer
+23896,145.06,282.9,Middle aquitard
+23896,282.9,455.21,400ft aquifer
+23896,455.21, ---,Deep aquitard
+23896, ---,27.46,Salinas aquitard
+23914,71.41, ---,180ft aquifer
+23914, ---,71.41,Salinas aquitard
+23918,54.43, ---,180ft aquifer
+23918, ---,54.43,Salinas aquitard
+23930,190.03,371.08,180ft aquifer
+23930,371.08, ---,Middle aquitard
+23930, ---,190.03,Salinas aquitard
+23959,61.88,105.2,180ft aquifer
+23959,105.2,141.5,Middle aquitard
+23959,141.5,316.19,400ft aquifer
+23959,316.19,393.26,Deep aquitard
+23959,393.26, ---,Paso Robles
+23959, ---,61.88,Salinas aquitard
+24376,59.21, ---,Salinas aquitard
+24376, ---,59.21,Shallow aquifer
+24519,18.23,174.48,Salinas aquitard
+24519,174.48, ---,180ft aquifer
+24519, ---,18.23,Shallow aquifer
+24520,48.67,84.89,Salinas aquitard
+24520,84.89,203.29,180ft aquifer
+24520,203.29,254.36,Middle aquitard
+24520,254.36,376.56,400ft aquifer
+24520,376.56, ---,Deep aquitard
+24520, ---,48.67,Shallow aquifer
+24524,70.6,141.73,Salinas aquitard
+24524,141.73,263.59,180ft aquifer
+24524,263.59,303.99,Middle aquitard
+24524,303.99, ---,400ft aquifer
+24524, ---,70.6,Shallow aquifer
+24525,161.36,267.41,Salinas aquitard
+24525,267.41,375.99,180ft aquifer
+24525,375.99,461.84,Middle aquitard
+24525,461.84, ---,400ft aquifer
+24525, ---,161.36,Shallow aquifer
+24565,78.81,109.49,180ft aquifer
+24565,109.49,152.43,Middle aquitard
+24565,152.43,228.1,400ft aquifer
+24565,228.1, ---,Deep aquitard
+24565, ---,78.81,Salinas aquitard
+24588,193.62,210.78,Salinas aquitard
+24588,210.78,409.76,180ft aquifer
+24588,409.76,426.91,Middle aquitard
+24588,426.91,557.28,400ft aquifer
+24588,557.28,657.22,Deep aquitard
+24588,657.22, ---,Paso Robles
+24588, ---,193.62,Shallow aquifer
+24589,141.68,247.24,Salinas aquitard
+24589,247.24,420.56,180ft aquifer
+24589,420.56,488.18,Middle aquitard
+24589,488.18,655.21,400ft aquifer
+24589,655.21,705.59,Deep aquitard
+24589,705.59, ---,Paso Robles
+24589, ---,141.68,Shallow aquifer
+24644,58.6,87.92,Salinas aquitard
+24644,87.92,204.31,180ft aquifer
+24644,204.31,290.46,Middle aquitard
+24644,290.46,545.9,400ft aquifer
+24644,545.9, ---,Deep aquitard
+24644, ---,58.6,Shallow aquifer
+24645,46.85,70.4,Salinas aquitard
+24645,70.4, ---,180ft aquifer
+24645, ---,46.85,Shallow aquifer
+24646,16.68,138.1,Salinas aquitard
+24646,138.1,295.56,180ft aquifer
+24646,295.56,446.08,Middle aquitard
+24646,446.08,663.72,400ft aquifer
+24646,663.72, ---,Deep aquitard
+24833,83.73,177.26,180ft aquifer
+24833,177.26,272.59,Middle aquitard
+24833,272.59,436.75,400ft aquifer
+24833,436.75, ---,Deep aquitard
+24833, ---,83.73,Salinas aquitard
+24835,79.82,103.63,Salinas aquitard
+24835,103.63,216.44,180ft aquifer
+24835,216.44,257.25,Middle aquitard
+24835,257.25,413.11,400ft aquifer
+24835,413.11, ---,Deep aquitard
+24835, ---,79.82,Shallow aquifer
+24996,45.55,119.94,Salinas aquitard
+24996,119.94,208.75,180ft aquifer
+24996,208.75,397.84,Middle aquitard
+24996,397.84, ---,400ft aquifer
+24996, ---,45.55,Shallow aquifer
+25054,143.74,198.83,Salinas aquitard
+25054,198.83,253.65,180ft aquifer
+25054,253.65,309.8,Middle aquitard
+25054,309.8,471.23,400ft aquifer
+25054,471.23,650.2,Deep aquitard
+25054,650.2, ---,Paso Robles
+25054, ---,143.74,Shallow aquifer
+25073,65.77,193.29,180ft aquifer
+25073,193.29, ---,Middle aquitard
+25073,259.25, ---,Deep aquitard
+25073, ---,259.25,400ft aquifer
+25073, ---,65.77,Salinas aquitard
+25318,52.79,127.48,180ft aquifer
+25318,127.48,182.47,Middle aquitard
+25318,182.47,276.87,400ft aquifer
+25318,276.87,711.41,Deep aquitard
+25318,711.41, ---,Paso Robles
+25318, ---,52.79,Salinas aquitard
+25336,94.2,121.01,Salinas aquitard
+25336,121.01,302.43,180ft aquifer
+25336,302.43,470.41,Middle aquitard
+25336,470.41, ---,400ft aquifer
+25336, ---,94.2,Shallow aquifer
+25373,69.26,145.69,Salinas aquitard
+25373,145.69, ---,180ft aquifer
+25373, ---,69.26,Shallow aquifer
+25413,120.8,235.39,180ft aquifer
+25413,235.39, ---,Middle aquitard
+25413, ---,120.8,Salinas aquitard
+25533,117.31,296.92,180ft aquifer
+25533,296.92,411.42,Middle aquitard
+25533,411.42,566.74,400ft aquifer
+25533,566.74, ---,Deep aquitard
+25533, ---,117.31,Salinas aquitard
+25553,66.11,218.34,180ft aquifer
+25553,218.34,272.17,Middle aquitard
+25553,272.17, ---,400ft aquifer
+25553, ---,66.11,Salinas aquitard
+25573,7.92,57.25,Salinas aquitard
+25573,57.25, ---,180ft aquifer
+25573, ---,7.92,Shallow aquifer
+13S02E28B01,75.82,265.83,180ft aquifer
+13S02E28B01,265.83, ---,400ft aquifer
+13S02E28B01,265.83,265.83,Middle aquitard
+13S02E28E01,257.62,282.63,Middle aquitard
+13S02E28E01,282.63,812.67,400ft aquifer
+13S02E28E01,812.67, ---,Deep aquitard
+13S02E28M02,16.7,256.74,180ft aquifer
+13S02E28M02,256.74,281.74,Middle aquitard
+13S02E28M02,281.74, ---,400ft aquifer
+13S02E29J01,32.88,217.89,180ft aquifer
+13S02E29J01,217.89, ---,400ft aquifer
+13S02E29J01,217.89,217.89,Middle aquitard
+13S02E32J03,82.55,182.55,180ft aquifer
+13S02E32J03,182.55,362.58,Middle aquitard
+13S02E32J03,362.58, ---,400ft aquifer
+13S02E32M02,102.89,177.9,180ft aquifer
+13S02E32M02,177.9,227.9,Middle aquitard
+13S02E32M02,227.9,592.91,400ft aquifer
+13S02E32M02,592.91, ---,Deep aquitard
+13S02E32M02, ---, ---,Paso Robles
+13S02E32M02, ---, ---,Salinas aquitard
+13S02E32M02, ---, ---,Shallow aquifer
+13S02E32N01,109.88,242.89,180ft aquifer
+13S02E32N01,242.89, ---,400ft aquifer
+13S02E32N01, ---,242.89,Middle aquitard
+13S03E32Q01,0,5.61,Salinas aquitard
+13S03E32Q01,5.61,145.61,180ft aquifer
+13S03E32Q01,145.61, ---,Middle aquitard
+13S03E32Q01,550.62, ---,Paso Robles
+14S/02E-16G01,97.73,262.73,180ft aquifer
+14S/02E-16G01,262.73,362.73,Middle aquitard
+14S/02E-16G01,362.73,462.73,400ft aquifer
+14S/02E-16G01,462.73,462.73,Deep aquitard
+14S/02E-16G01,462.73, ---,Paso Robles
+14S/02E-16G01, ---,97.73,Salinas aquitard
+14S/02E-17K1,103.39,133.39,Salinas aquitard
+14S/02E-17K1,133.39,363.39,180ft aquifer
+14S/02E-17K1,363.39,433.39,Middle aquitard
+14S/02E-17K1,433.39,553.39,400ft aquifer
+14S/02E-17K1,553.39,553.39,Deep aquitard
+14S/02E-17K1,553.39, ---,Paso Robles
+14S/02E-20B1-3,133.56,183.56,Salinas aquitard
+14S/02E-20B1-3,183.56,403.56,180ft aquifer
+14S/02E-20B1-3,403.56,503.56,Middle aquitard
+14S/02E-20B1-3,503.56,593.56,400ft aquifer
+14S/02E-20B1-3,593.56,593.56,Deep aquitard
+14S/02E-20B1-3,593.56, ---,Paso Robles
+14S/02E-21E1,130.45,160.45,Salinas aquitard
+14S/02E-21E1,160.45,390.45,180ft aquifer
+14S/02E-21E1,390.45,475.45,Middle aquitard
+14S/02E-21E1,475.45,585.45,400ft aquifer
+14S/02E-21E1,585.45,585.45,Deep aquitard
+14S/02E-21E1,585.45, ---,Paso Robles
+14S/02E-21N1,122.99,172.99,Salinas aquitard
+14S/02E-21N1,172.99,432.99,180ft aquifer
+14S/02E-21N1,432.99,442.99,Middle aquitard
+14S/02E-21N1,442.99,582.99,400ft aquifer
+14S/02E-21N1,582.99,582.99,Deep aquitard
+14S/02E-21N1,582.99, ---,Paso Robles
+14S/02E-28C1,38.93,343.93,180ft aquifer
+14S/02E-28C1,343.93,373.93,Middle aquitard
+14S/02E-28C1,373.93,493.93,400ft aquifer
+14S/02E-28C1,493.93,493.93,Deep aquitard
+14S/02E-28C1,493.93, ---,Paso Robles
+14S/02E-28C1, ---,38.93,Salinas aquitard
+14S/2E-10M2,17.12,102.12,Salinas aquitard
+14S/2E-10M2,102.12,267.12,180ft aquifer
+14S/2E-10M2,267.12,377.12,Middle aquitard
+14S/2E-10M2,377.12,477.12,400ft aquifer
+14S/2E-10M2,477.12,477.12,Deep aquitard
+14S/2E-22K,23.24,173.24,Salinas aquitard
+14S/2E-22K,173.24,313.24,180ft aquifer
+14S/2E-22K,313.24,328.24,Middle aquitard
+14S/2E-22K,328.24,523.24,400ft aquifer
+14S/2E-22K,523.24, ---,Deep aquitard
+14S/2E-27N1,46.12,146.12,Salinas aquitard
+14S/2E-27N1,146.12,241.28,180ft aquifer
+14S/2E-27N1,241.28,341.12,Middle aquitard
+14S/2E-27N1,341.12,486.12,400ft aquifer
+14S/2E-27N1,486.12, ---,Deep aquitard
+14S/2E-28H2,66.12,126.12,Salinas aquitard
+14S/2E-28H2,126.12,326.12,180ft aquifer
+14S/2E-28H2,326.12,346.12,Middle aquitard
+14S/2E-28H2,346.12,516.12,400ft aquifer
+14S/2E-28H2,516.12, ---,Deep aquitard
+14S/2E-33Q,136.68,276.68,Salinas aquitard
+14S/2E-33Q,276.68,426.68,180ft aquifer
+14S/2E-33Q,426.68,451.68,Middle aquitard
+14S/2E-33Q,451.68,576.68,400ft aquifer
+14S/2E-33Q,576.68, ---,Deep aquitard
+14S01E13J02,211.39,341.39,180ft aquifer
+14S01E13J02,341.39,416.39,Middle aquitard
+14S01E13J02,416.39, ---,400ft aquifer
+14S01E24L05,286.17,341.19,180ft aquifer
+14S01E24L05,341.19,391.19,Middle aquitard
+14S01E24L05,391.19,711.19,400ft aquifer
+14S01E24L05,711.19, ---,Deep aquitard
+14S01E24L53, ---, ---,180ft aquifer
+14S01E24L53, ---, ---,400ft aquifer
+14S01E24L53, ---, ---,Deep aquitard
+14S01E24L53, ---, ---,Middle aquitard
+14S01E24L53, ---, ---,Paso Robles
+14S01E24L53, ---, ---,Salinas aquitard
+14S01E24L53, ---, ---,Shallow aquifer
+14S02E07A02,122.64,322.65,180ft aquifer
+14S02E07A02,322.65, ---,400ft aquifer
+14S02E07A02,322.65,322.65,Middle aquitard
+14S02E07F02,174.29,319.31,180ft aquifer
+14S02E07F02,319.31,609.31,400ft aquifer
+14S02E07F02,319.31,319.31,Middle aquitard
+14S02E07F02,609.31, ---,Deep aquitard
+14S02E12E01,143.77,273.77,180ft aquifer
+14S02E12E01,273.77,608.79,400ft aquifer
+14S02E12E01,273.77,273.77,Middle aquitard
+14S02E12E01,608.79, ---,Deep aquitard
+14S02E13F02,112.67,307.69,180ft aquifer
+14S02E13F02,307.69, ---,400ft aquifer
+14S02E13F02,307.69,307.69,Middle aquitard
+14S02E13G01,78.05,323.08,180ft aquifer
+14S02E13G01,323.08,418.07,Middle aquitard
+14S02E13G01,418.07,583.07,400ft aquifer
+14S02E13G01,583.07, ---,Deep aquitard
+14S02E15A01,129.01,324,180ft aquifer
+14S02E15A01,324,389.03,Middle aquitard
+14S02E15A01,389.03,584.02,400ft aquifer
+14S02E15A01,584.02, ---,Deep aquitard
+14S02E18E01,174.42,349.43,180ft aquifer
+14S02E18E01,349.43,674.44,400ft aquifer
+14S02E18E01,349.43,349.43,Middle aquitard
+14S02E18E01,674.44, ---,Deep aquitard
+14S02E26A06,217.4,357.76,180ft aquifer
+14S02E26A06,357.76,372.75,Middle aquitard
+14S02E26A06,372.75, ---,400ft aquifer
+14S02E26A06, ---,217.4,Salinas aquitard
+14S03E11E51,55.38,305.4,180ft aquifer
+14S03E11E51,305.4,350.38,Middle aquitard
+14S03E11E51,350.38, ---,400ft aquifer
+14S03E22D01,140.49,350.51,180ft aquifer
+14S03E22D01,350.51,475.52,Middle aquitard
+14S03E22D01,475.52,520.53,400ft aquifer
+14S03E22D01,520.53, ---,Deep aquitard
+14S03E22E51,78.71,348.74,180ft aquifer
+14S03E22E51,348.74,443.72,Middle aquitard
+14S03E22E51,443.72,553.73,400ft aquifer
+14S03E22E51,553.73, ---,Deep aquitard
+14S03E28N01,132.75,247.75,180ft aquifer
+14S03E28N01,247.75,272.75,Middle aquitard
+14S03E28N01,272.75, ---,400ft aquifer
+15S/03E-28A01,1101.03,2811.03,Purisima
+15S/2E-12A1,22.88,102.88,Salinas aquitard
+15S/2E-12A1,102.88,292.88,180ft aquifer
+15S/2E-12A1,292.88,352.88,Middle aquitard
+15S/2E-12A1,352.88,467.88,400ft aquifer
+15S/2E-12A1,467.88, ---,Deep aquitard
+15S/2E-2L,52.17,137.17,Salinas aquitard
+15S/2E-2L,137.17,347.17,180ft aquifer
+15S/2E-2L,347.17,387.17,Middle aquitard
+15S/2E-2L,387.17,452.17,400ft aquifer
+15S/2E-2L,452.17, ---,Deep aquitard
+15S/2E-4A,163.2,293.2,Salinas aquitard
+15S/2E-4A,293.2,473.2,180ft aquifer
+15S/2E-4A,473.2,503.2,Middle aquitard
+15S/2E-4A,503.2,593.2,400ft aquifer
+15S/2E-4A,593.2, ---,Deep aquitard
+15S/2E-4C,138.33,228.33,Salinas aquitard
+15S/2E-4C,228.33,418.33,180ft aquifer
+15S/2E-4C,418.33,438.33,Middle aquitard
+15S/2E-4C,438.33,538.33,400ft aquifer
+15S/2E-4C,538.33, ---,Deep aquitard
+15S03E14N,58.34,183.34,Salinas aquitard
+15S03E14N,183.34,208.34,180ft aquifer
+15S03E14N,208.34,418.36,Middle aquitard
+15S03E14N,418.36,608.36,400ft aquifer
+15S03E14N,608.36, ---,Deep aquitard
+15S03E15J,40.16,185.18,Salinas aquitard
+15S03E15J,185.18,210.18,180ft aquifer
+15S03E15J,210.18,420.16,Middle aquitard
+15S03E15J,420.16,610.2,400ft aquifer
+15S03E15J,610.2, ---,Deep aquitard
+15S03E17H,35.57,155.59,Salinas aquitard
+15S03E17H,155.59,260.58,180ft aquifer
+15S03E17H,260.58,330.59,Middle aquitard
+15S03E17H,330.59,425.61,400ft aquifer
+15S03E17H,425.61,585.59,Deep aquitard
+15S03E17H,585.59, ---,Paso Robles
+15S03E22C,92.98,142.99,Salinas aquitard
+15S03E22C,142.99,147.97,180ft aquifer
+15S03E22C,147.97,393,Middle aquitard
+15S03E22C,393,393,400ft aquifer
+15S03E22C,393, ---,Deep aquitard
+15S03E22C, ---, ---,Paso Robles
+15S03E22C, ---, ---,Shallow aquifer
+15S03E26KA,41.27,121.27,Salinas aquitard
+15S03E26KA,121.27,311.27,180ft aquifer
+15S03E26KA,311.27, ---,Middle aquitard
+15S03E26KA, ---, ---,400ft aquifer
+15S03E26KA, ---, ---,Deep aquitard
+15S03E26KA, ---, ---,Paso Robles
+15S03E26KA, ---, ---,Shallow aquifer
+15S03E27D,43.05,73.04,Salinas aquitard
+15S03E27D,73.04,163.07,180ft aquifer
+15S03E27D,163.07,373.05,Middle aquitard
+15S03E27D,373.05,493.07,400ft aquifer
+15S03E27D,493.07, ---,Deep aquitard
+15S03E27D, ---, ---,Paso Robles
+15S03E27D, ---, ---,Shallow aquifer
+16S04E06CA,115.52,180.52,Salinas aquitard
+16S04E06CA,180.52,295.52,180ft aquifer
+16S04E06CA,295.52, ---,Middle aquitard
+26-01,382.64,545.94,400ft aquifer
+26-01,545.94,645.94,Deep aquitard
+26-01,645.94, ---,Paso Robles
+APN227021014,119.26,324.29,180ft aquifer
+APN227021014,324.29,449.3,Middle aquitard
+APN227021014,449.3,674.31,400ft aquifer
+APN227021014,674.31, ---,Deep aquitard
+APN414013005,114.05,354.05,180ft aquifer
+APN414013005,354.05,379.05,Middle aquitard
+APN414013005,379.05, ---,400ft aquifer
+Armstrong,434.07,514.07,400ft aquifer
+Armstrong,514.07,634.07,Deep aquitard
+Armstrong,634.07, ---,Paso Robles
+bend in section C-C',482.71, ---,Paso Robles
+bend in section C-C',1602.71,2282.71,Purisima
+Cal Water 40-01,491.9, ---,Paso Robles
+Cal Water 40-01,1041.9,1941.9,Purisima
+Castroville Water District well 3,373.03,573.03,400ft aquifer
+Castroville Water District well 3,573.03,723.03,Deep aquitard
+Castroville Water District well 3,723.03,1403.03,Paso Robles
+Castroville Water District well 3,1403.03,1803.03,Purisima
+County Test Hole No. 1 (Fontes),300.17,450.17,400ft aquifer
+County Test Hole No. 1 (Fontes),450.17,650.17,Deep aquitard
+County Test Hole No. 1 (Fontes),650.17, ---,Paso Robles
+Fort Ord Site D (15S/2E-3E),315.05,530.05,180ft aquifer
+Fort Ord Site D (15S/2E-3E),530.05,550.05,Middle aquitard
+Fort Ord Site D (15S/2E-3E),550.05,620.05,400ft aquifer
+Fort Ord Site D (15S/2E-3E),620.05,840.05,Deep aquitard
+Fort Ord Site D (15S/2E-3E),840.05,1480.05,Paso Robles
+Fort Ord Site D (15S/2E-3E),1480.05,2800.05,Purisima
+Harbor Dev,423.07, ---,400ft aquifer
+Harbor Dev,673.07, ---,Paso Robles
+Hwy 101 (E. end of Tp),1518.59,1548.59,Purisima
+JR Gillbergh Pura 1,2205.46,3105.46,Purisima
+Lineberry Hwy 156,607.26, ---,Paso Robles
+Luzerne,263.46,1013.46,Purisima
+Marina No. 11 (14S/2E-32D),265.53,435.53,180ft aquifer
+Marina No. 11 (14S/2E-32D),435.53,455.53,Middle aquitard
+Marina No. 11 (14S/2E-32D),455.53,555.53,400ft aquifer
+Marina No. 11 (14S/2E-32D),555.53,695.53,Deep aquitard
+Marina No. 11 (14S/2E-32D),695.53,1365.53,Paso Robles
+Marina No. 11 (14S/2E-32D),1365.53,2705.53,Purisima
+Marina No. 11 (14S/2E-32D), ---,265.53,Salinas aquitard
+Marina No. 12,701.39, ---,Paso Robles
+Marina No. 12,1261.39,2551.39,Purisima
+Marina Test well,421.91,621.91,400ft aquifer
+Marina Test well,621.91,721.91,Deep aquitard
+Marina Test well,721.91, ---,Paso Robles
+Monterey Bay fault zone,321.84,1101.84,Purisima
+Monterey County Mulligan Hill 1,460.41,510.41,400ft aquifer
+Monterey County Mulligan Hill 1,510.41,635.41,Deep aquitard
+Monterey County Mulligan Hill 1,635.41,1560.41,Paso Robles
+Monterey County Mulligan Hill 1,1560.41,2200.41,Purisima
+MPWMD FO-09,140.6,705.6,Paso Robles
+MPWMD FO-09,705.6,865.6,Purisima
+MPWMD FO-10,255.7,1005.7,Paso Robles
+MPWMD FO-10,1005.7,1405.7,Purisima
+Mty Dunes Colony #1,420.13, ---,Paso Robles
+Mty Dunes Colony #1,1420.13,2220.13,Purisima
+MW-3,106.1,231.1,180ft aquifer
+MW-3,231.1,286.1,Middle aquitard
+MW-3,286.1,566.1,400ft aquifer
+MW-3,566.1,566.1,Deep aquitard
+MW-3,566.1, ---,Paso Robles
+MW-4,101.18,256.18,180ft aquifer
+MW-4,256.18,296.18,Middle aquitard
+MW-4,296.18,566.18,400ft aquifer
+MW-4,566.18,566.18,Deep aquitard
+MW-4,566.18, ---,Paso Robles
+MW-5,51.36,86.36,Salinas aquitard
+MW-5,86.36,316.36,180ft aquifer
+MW-5,316.36,396.36,Middle aquitard
+MW-5,396.36,536.36,400ft aquifer
+MW-5,536.36,536.36,Deep aquitard
+MW-5,536.36, ---,Paso Robles
+MW-6,46.47,141.47,Salinas aquitard
+MW-6,141.47,331.47,180ft aquifer
+MW-6,331.47,381.47,Middle aquitard
+MW-6,381.47,521.47,400ft aquifer
+MW-6,521.47,521.47,Deep aquitard
+MW-6,521.47, ---,Paso Robles
+MW-7,101.82,291.82,180ft aquifer
+MW-7,291.82,326.82,Middle aquitard
+MW-7,326.82,551.82,400ft aquifer
+MW-7,551.82,551.82,Deep aquitard
+MW-7,551.82, ---,Paso Robles
+MW-8,86.2,106.2,Salinas aquitard
+MW-8,106.2,231.2,180ft aquifer
+MW-8,231.2,296.2,Middle aquitard
+MW-8,296.2, ---,400ft aquifer
+MW-9,37.69,77.69,Salinas aquitard
+MW-9,77.69,227.69,180ft aquifer
+MW-9,227.69,342.69,Middle aquitard
+MW-9,342.69,462.69,400ft aquifer
+MW-9,462.69,462.69,Deep aquitard
+MW-9,462.69, ---,Paso Robles
+NE end section C-C',1215.81,1675.81,Purisima
+Nestle (Test hole),106.79,196.64,180ft aquifer
+Nestle (Test hole),196.64,361.12,Middle aquitard
+Nestle (Test hole),361.12,487.67,400ft aquifer
+Nestle (Test hole),487.67,612.67,Deep aquitard
+Nestle (Test hole),612.67,1362.67,Paso Robles
+Nestle (Test hole),1362.67, ---,Purisima
+Nestle (Test hole), ---,106.79,Salinas aquitard
+PG&E Co. No. 1 Test Hole,720.49,1570.49,Paso Robles
+PG&E Co. No. 1 Test Hole,1570.49, ---,Purisima
+Playa T15S/R1E-24,967.18,1617.18,Purisima
+Strawberry City No. 1,533.34, ---,Paso Robles
+Strawberry City No. 2,575.4, ---,Paso Robles
+T14S/R2E-19,378.42,578.42,400ft aquifer
+T14S/R2E-19,578.42,778.42,Deep aquitard
+T14S/R2E-19,778.42, ---,Paso Robles
+T14S/R2E-31 (617ft),488.93,588.93,400ft aquifer
+T14S/R2E-31 (617ft),588.93,763.93,Deep aquitard
+T14S/R2E-31 (617ft),763.93, ---,Paso Robles
+T14S/R2E-31 (760ft),639.89, ---,Paso Robles
+T14S/R4E-20,696.54, ---,Paso Robles
+T15S/R1E-01 (836ft),752.93, ---,Paso Robles
+T15S/R1E-01 (856ft),611.21, ---,Paso Robles
+T15S/R1E-01 (862ft),716.76, ---,Paso Robles
+T15S/R2E-32E,543.08,593.08,400ft aquifer
+T15S/R2E-32E,593.08,693.08,Deep aquitard
+T15S/R2E-32E,693.08, ---,Paso Robles
+TEPI King City Nose CH1 (#34),831.46,1161.46,Purisima
+USGS DMW-1,0,80,Salinas aquitard
+USGS DMW-1,80,180,180ft aquifer
+USGS DMW-1,180,250,Middle aquitard
+USGS DMW-1,250,670,400ft aquifer
+USGS DMW-1,670,955,Paso Robles
+USGS DMW-1,955,2012,Purisima
+xsec D syncline axis,1752.96,2602.96,Purisima

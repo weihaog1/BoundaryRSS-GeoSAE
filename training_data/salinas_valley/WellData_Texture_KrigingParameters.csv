@@ -1,0 +1,29 @@
+﻿DatasetParameters,,,,,,,,
+HGU,KrigingMethodType,NeighborSearch,NeighborsMax,NeighborsMin,SectorType,MajorSemiAxis,MinorSemiAxis,Angle
+ShallowAQ,Ordinary,Standard,5,2,Four45,30000,10857.092,141.33
+SalinasAT,Ordinary,Standard,5,2,Four45,20262.8,8000,141.67
+180AQ,Ordinary,Standard,5,2,Four45,20000,8000,130
+MiddleAT,Ordinary,Standard,5,2,Four45,41498,41498,0
+400AQ,Ordinary,Standard,5,2,Four45,9707.2,14560.9,13.88
+DeepAT,Ordinary,Standard,5,2,Four45,20540.1,13811.9,119.35
+PasoRobles,Ordinary,Standard,5,2,Four45,36348,54522,57
+,,,,,,,,
+VariogramParameters,,,,,,,,
+HGU,NumberofLags,LagSize,PairsType,Nugget,MeasurementError,,,
+ShallowAQ,12,2500,Semivariogram,340.8,100,,,
+SalinasAT,12,2532.8,Semivariogram,409.9,100,,,
+180AQ,12,2105.35,Semivariogram,481.4,100,,,
+MiddleAT,12,5187.3,Semivariogram,317.6,100,,,
+400AQ,12,1213.4,Semivariogram,551.8,100,,,
+DeepAT,12,1711.7,Semivariogram,487.5,100,,,
+PasoRobles,12,4543.5,Semivariogram,170.7,100,,,
+,,,,,,,,
+VariogramModel,,,,,,,,
+HGU,ModelType,Parameter,Range,Anisotropy,MinorRange,Direction,Sill,
+ShallowAQ,Stable,0.6693,30000,TRUE,10857.1,141.3,630.98,
+SalinasAT,Stable,0.5797,20262.8,TRUE,8000,141.7,690.27,
+180AQ,Stable,0.9418,20000,TRUE,8000,130,399.38,
+MiddleAT,Stable,0.4637,41498.4,FALSE, ---, ---,825.2,
+400AQ,Stable,0.6148,9707.2,TRUE,14560.9,13.9,323.44,
+DeepAT,Exponential, ---,20540.4,TRUE,13811.9,119.3,445.4,
+PasoRobles,Stable,0.7273,36348,TRUE,54522,57,766.4,
