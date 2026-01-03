@@ -27,10 +27,11 @@ GeoSAE is a PyTorch implementation of 3D stratigraphic modeling using Stacked Au
 ## Data Status
 
 ### Available Training Data
-| Dataset | Location | Status | Compatible |
-|---------|----------|--------|------------|
-| Salinas Valley (USGS) | `training_data/salinas_valley/` | Downloaded | Yes |
-| Jun's Surface Geology | `Jun-s-data/` | Present | **No** (2D only) |
+| Dataset | Location | Points | Status |
+|---------|----------|--------|--------|
+| Salinas Valley (USGS) | `training_data/salinas_valley/` | 2,845 | Ready |
+| CVHM2 Central Valley (USGS) | `training_data/cvhm2_central_valley/` | 277,807 | Ready |
+| Jun's Surface Geology | `Jun-s-data/` | N/A | **Incompatible** (2D only) |
 
 ### Salinas Valley Dataset (Primary)
 - **Source**: USGS Digital data for Salinas Valley Geological Framework, California
@@ -81,15 +82,24 @@ git pull
 pip install -r requirements.txt
 pip install -e .
 
-# Run training with GPU
+# Option 1: Salinas Valley (small, quick test)
 python examples/train_geosae.py \
     --data-path training_data/salinas_valley/geosae_input.csv \
     --output-dir output/salinas_valley \
     --device cuda \
     --pretrain-iterations 2000 \
     --train-iterations 5000
+# Expected: ~5 minutes on RTX 5070
 
-# Expected time: ~5-10 minutes on RTX 5070
+# Option 2: CVHM2 Central Valley (large, full training)
+python examples/train_geosae.py \
+    --data-path training_data/cvhm2_central_valley/geosae_input.csv \
+    --output-dir output/cvhm2 \
+    --device cuda \
+    --pretrain-iterations 3000 \
+    --train-iterations 10000 \
+    --batch-size 512
+# Expected: ~15-20 minutes on RTX 5070
 ```
 
 ### Training Output
