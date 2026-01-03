@@ -1,0 +1,9 @@
+# Stratigraphic units from youngest (top) to oldest (bottom)
+0: Shallow aquifer
+1: Salinas aquitard
+2: 180ft aquifer
+3: Middle aquitard
+4: 400ft aquifer
+5: Deep aquitard
+6: Paso Robles
+7: Purisima

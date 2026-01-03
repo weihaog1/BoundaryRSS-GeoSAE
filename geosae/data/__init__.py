@@ -5,7 +5,7 @@ from .preprocessing import (
     denormalize_coordinates,
     create_sequence_relations,
 )
-from .dataset import StratigraphicDataset, BoreholeData
+from .dataset import StratigraphicDataset, BoreholeData, PreTrainingDataset
 
 __all__ = [
     "normalize_coordinates",
@@ -13,4 +13,5 @@ __all__ = [
     "create_sequence_relations",
     "StratigraphicDataset",
     "BoreholeData",
+    "PreTrainingDataset",
 ]
